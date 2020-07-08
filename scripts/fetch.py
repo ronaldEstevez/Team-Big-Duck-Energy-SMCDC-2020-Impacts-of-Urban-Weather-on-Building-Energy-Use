@@ -20,7 +20,7 @@ m = {
     "dec":12
 }
       
-def get_weather(usecols='*', lat=None,lon=None, months=None, datetime=None):
+def get_weather(usecols='*', lat=None, lon=None, coordinates=[], months=None, datetime=None):
     '''
     Fetches data pertaining to Chicago 2015
 
@@ -31,9 +31,13 @@ def get_weather(usecols='*', lat=None,lon=None, months=None, datetime=None):
                     RadDif_Wm-2, Longwave_Wm-2, ShortwaveNorm_Wm-2, Shortwave_Wm-2, 
                     WindDir_deg, WindSpd_ms-1, RainDpth_mm
 
-    lat - desired latitude coordinate
+    lat - desired latitude coordinate; must be passed with an argument for lon
+          string or float
 
-    lon - desired longitude coordinate
+    lon - desired longitude coordinate; must be passed with an argument for lon;
+          string or float
+
+    coordinates - list of tuples of desired coordinates; mutually exclusive with lat and lon
 
     months - desired months; must be passed as list of strings and months must be
              abbreviated by first three letters; mutually exclusive with datetime
@@ -45,14 +49,18 @@ def get_weather(usecols='*', lat=None,lon=None, months=None, datetime=None):
 
     conn = sqlite3.connect('../database/database.db')
 
+
     query = f"select {usecols} from 'chicago_weather'"
     opt_query = []
 
-    if 'oid' not in usecols and usecols != '*':
+    if usecols != '*' and 'oid' not in usecols:
         usecols = 'oid,' + usecols
 
     if lat != None and lon != None:
         opt_query.append(f" lat={lat} and lon={lon}")
+    elif coordinates != None:
+        for coord in coordinates:
+            opt_query.append(f" lat={coord[0]} and lon={coord[1]}")
 
     if months != None and len(months) > 0:
         for month in months:
