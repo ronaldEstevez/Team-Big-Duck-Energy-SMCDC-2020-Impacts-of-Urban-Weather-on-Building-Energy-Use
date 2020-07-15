@@ -46,7 +46,7 @@ def main():
     for t in threads:
         t.join()
 
-    with open('../processed_data/var.json', 'w') as json_file:
+    with open('../../processed_data/880/var.json', 'w') as json_file:
             json.dump(data, json_file)
 
 

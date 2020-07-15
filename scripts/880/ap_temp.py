@@ -7,7 +7,7 @@ import pandas as pd
 
 
 def main():
-    df = pd.read_csv("../proccesed_data/chi_var.csv")
+    df = pd.read_csv("../../proccesed_data/880/chi_var.csv")
 
     for tag in ['std', 'var', 'avg', 'min', 'max']:
         df.rename(columns={tag:f'{tag}_K'}, inplace=True)
@@ -23,7 +23,7 @@ def main():
 
 
     
-    df.to_csv("../processed_data/chi_var.csv")
+    df.to_csv("../../processed_data/880/chi_var.csv")
 
 if __name__ == "__main__":
     main()

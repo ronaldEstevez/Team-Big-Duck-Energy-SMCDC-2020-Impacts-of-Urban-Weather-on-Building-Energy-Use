@@ -24,7 +24,7 @@ def main():
                     'low': low,
                     'avg': avg
                 }
-    with open('../processed_data/chi_hi_lo_avg.json', 'w') as json_file:
+    with open('../../processed_data/880/chi_hi_lo_avg.json', 'w') as json_file:
         json.dump(data, json_file)
 
 
