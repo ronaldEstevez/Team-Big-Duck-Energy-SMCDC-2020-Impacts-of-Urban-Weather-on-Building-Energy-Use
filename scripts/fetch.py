@@ -20,7 +20,7 @@ m = {
     "dec":12
 }
       
-def get_weather(usecols='*', lat=None, lon=None, coordinates=[], months=None, datetime=None):
+def get_weather(usecols='*', lat=None, lon=None, coordinates=[], months=None, datetime=None, groupBy=None):
     '''
     Fetches data pertaining to Chicago 2015
 
@@ -31,11 +31,11 @@ def get_weather(usecols='*', lat=None, lon=None, coordinates=[], months=None, da
                     RadDif_Wm-2, Longwave_Wm-2, ShortwaveNorm_Wm-2, Shortwave_Wm-2, 
                     WindDir_deg, WindSpd_ms-1, RainDpth_mm
 
-    lat - desired latitude coordinate; must be passed with an argument for lon
-          string or float
+    lat - desired latitude coordinate; must be passed with an argument for lon;
+          string, float, or list/tuple of strings/floats
 
     lon - desired longitude coordinate; must be passed with an argument for lon;
-          string or float
+          string, float, or list/tuple of strings/floats
 
     coordinates - list of tuples of desired coordinates; mutually exclusive with lat and lon
 
@@ -47,20 +47,24 @@ def get_weather(usecols='*', lat=None, lon=None, coordinates=[], months=None, da
                months
     '''
 
-    conn = sqlite3.connect('../database/database.db')
-
-
     query = f"select {usecols} from 'chicago_weather'"
     opt_query = []
 
-    if usecols != '*' and 'oid' not in usecols:
-        usecols = 'oid,' + usecols
+    for coord in [lat, lon]:
+        curr_coord = 'lat' if lat==coord else 'lon'
+        if coord != None:
+            if type(coord) == tuple:
+                opt_query.append(f" {curr_coord} in {coord}")
+            elif type(coord) == list and type(lon) == list:
+                opt_query.append(f" {curr_coord} in {tuple(coord)}")
+            else:
+                opt_query.append(f" {curr_coord}={coord}")
 
-    if lat != None and lon != None:
-        opt_query.append(f" lat={lat} and lon={lon}")
-    elif coordinates != None:
+    if len(coordinates) > 0 and lat == None and lon == None:
+        coord_query = ""
         for coord in coordinates:
-            opt_query.append(f" lat={coord[0]} and lon={coord[1]}")
+            coord_query += f" lat={coord[0]} and lon={coord[1]} or"
+        opt_query.append(coord_query[:-3])
 
     if months != None and len(months) > 0:
         for month in months:
@@ -76,6 +80,13 @@ def get_weather(usecols='*', lat=None, lon=None, coordinates=[], months=None, da
             query += opt_query[i]
             query += " and"
         query += opt_query[-1]
+        
+    if groupBy != None:
+        query += "group by " + groupBy
 
-    return pd.read_sql_query(query, conn, index_col='oid')   
+    conn = sqlite3.connect('../database/database.db')
+    df = pd.read_sql_query(query, conn)  
+    conn.close()
+
+    return df 
     

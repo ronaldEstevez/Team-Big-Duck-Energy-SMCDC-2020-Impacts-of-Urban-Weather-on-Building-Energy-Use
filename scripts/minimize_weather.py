@@ -23,6 +23,7 @@ def minimizeWeather():
     j = 1
     for point in coordsList:
         if j > 2 and j <= 17:
+            # coords.append((str(point[0]), str(point[1])))
             coords.append(('%.6f' % point[0], '%.6f' % point[1]))
         elif (j-5)%17 == 0:
             j = 0
@@ -30,7 +31,7 @@ def minimizeWeather():
 
     coords = set(coords)
 
-    with open(ogWeather, 'r') as inp, open('../processed_data/weather.csv', 'w') as out:
+    with open(ogWeather, 'r') as inp, open('../weather/weather.csv', 'w') as out:
         writer = csv.writer(out)
         reader = csv.reader(inp)
 
@@ -41,7 +42,7 @@ def minimizeWeather():
                 writer.writerow(row)
 
 def createDatabase():
-    filename = '../processed_data/weather.csv'
+    filename = '../weather/weather.csv'
 
     database = create_engine('sqlite:///database.db')
     
@@ -51,7 +52,7 @@ def createDatabase():
     for df in pd.read_csv(filename,usecols=headers, chunksize=880*96): # chunksize used to represent a 24 hour period...now it just works
         df.rename(columns={' RadDif_Wm-2':'RadDif_Wm-2'}, inplace=True)
         df.to_sql('chicago_weather', database, if_exists='append')
-    shutil.move('./full_database.db', '../database/database.db')
+    shutil.move('./database.db', '../database/database.db')
 
 
 def main():

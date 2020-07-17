@@ -1,0 +1,3500 @@
+{
+    "1": {
+        "Area [m2]": 285.41,
+        "Total Annual Electricity [GJ]": 259.35,
+        "Total Annual Gas [GJ]": 45.13,
+        "Building Location [lat, lon]": [
+            41.867863,
+            -87.628662
+        ],
+        "Weather Location Lat": 41.867863,
+        "Weather Location Lon": -87.628662
+    },
+    "10": {
+        "Area [m2]": 282.49,
+        "Total Annual Electricity [GJ]": 354.79,
+        "Total Annual Gas [GJ]": 40.52,
+        "Building Location [lat, lon]": [
+            41.86787,
+            -87.62640400000001
+        ],
+        "Weather Location Lat": 41.86787,
+        "Weather Location Lon": -87.62640400000001
+    },
+    "100": {
+        "Area [m2]": 42305.17,
+        "Total Annual Electricity [GJ]": 13343.06,
+        "Total Annual Gas [GJ]": 10366.43,
+        "Building Location [lat, lon]": [
+            41.870391999999995,
+            -87.630981
+        ],
+        "Weather Location Lat": 41.870391999999995,
+        "Weather Location Lon": -87.630981
+    },
+    "101": {
+        "Area [m2]": 9876.54,
+        "Total Annual Electricity [GJ]": 5183.45,
+        "Total Annual Gas [GJ]": 3666.26,
+        "Building Location [lat, lon]": [
+            41.870434,
+            -87.625275
+        ],
+        "Weather Location Lat": 41.870434,
+        "Weather Location Lon": -87.625275
+    },
+    "10102": {
+        "Area [m2]": 318953.75,
+        "Total Annual Electricity [GJ]": 81218.16,
+        "Total Annual Gas [GJ]": 54278.46,
+        "Building Location [lat, lon]": [
+            41.880542999999996,
+            -87.637939
+        ],
+        "Weather Location Lat": 41.880542999999996,
+        "Weather Location Lon": -87.637939
+    },
+    "10105": {
+        "Area [m2]": 140599.95,
+        "Total Annual Electricity [GJ]": 37497.9,
+        "Total Annual Gas [GJ]": 27873.98,
+        "Building Location [lat, lon]": [
+            41.881393,
+            -87.63678
+        ],
+        "Weather Location Lat": 41.881393,
+        "Weather Location Lon": -87.63678
+    },
+    "10108": {
+        "Area [m2]": 57755.42,
+        "Total Annual Electricity [GJ]": 16869.81,
+        "Total Annual Gas [GJ]": 10622.87,
+        "Building Location [lat, lon]": [
+            41.881397,
+            -87.635651
+        ],
+        "Weather Location Lat": 41.881397,
+        "Weather Location Lon": -87.635651
+    },
+    "10119": {
+        "Area [m2]": 46754.14,
+        "Total Annual Electricity [GJ]": 14518.16,
+        "Total Annual Gas [GJ]": 12130.47,
+        "Building Location [lat, lon]": [
+            41.881397,
+            -87.635651
+        ],
+        "Weather Location Lat": 41.881397,
+        "Weather Location Lon": -87.635651
+    },
+    "10121": {
+        "Area [m2]": 129451.4,
+        "Total Annual Electricity [GJ]": 34904.08,
+        "Total Annual Gas [GJ]": 28358.64,
+        "Building Location [lat, lon]": [
+            41.881415999999994,
+            -87.633362
+        ],
+        "Weather Location Lat": 41.881415999999994,
+        "Weather Location Lon": -87.633362
+    },
+    "10141": {
+        "Area [m2]": 99586.96,
+        "Total Annual Electricity [GJ]": 27504.3,
+        "Total Annual Gas [GJ]": 21696.3,
+        "Building Location [lat, lon]": [
+            41.881415999999994,
+            -87.633362
+        ],
+        "Weather Location Lat": 41.881415999999994,
+        "Weather Location Lon": -87.633362
+    },
+    "10151": {
+        "Area [m2]": 25331.57,
+        "Total Annual Electricity [GJ]": 8987.59,
+        "Total Annual Gas [GJ]": 6002.86,
+        "Building Location [lat, lon]": [
+            41.881428,
+            -87.63110400000001
+        ],
+        "Weather Location Lat": 41.881428,
+        "Weather Location Lon": -87.63110400000001
+    },
+    "10153": {
+        "Area [m2]": 83576.04,
+        "Total Annual Electricity [GJ]": 23343.77,
+        "Total Annual Gas [GJ]": 16138.29,
+        "Building Location [lat, lon]": [
+            41.881423999999996,
+            -87.632233
+        ],
+        "Weather Location Lat": 41.881423999999996,
+        "Weather Location Lon": -87.632233
+    },
+    "10157": {
+        "Area [m2]": 283570.83,
+        "Total Annual Electricity [GJ]": 72611.49,
+        "Total Annual Gas [GJ]": 54597.33,
+        "Building Location [lat, lon]": [
+            41.881428,
+            -87.63110400000001
+        ],
+        "Weather Location Lat": 41.881428,
+        "Weather Location Lon": -87.63110400000001
+    },
+    "10182": {
+        "Area [m2]": 62671.56,
+        "Total Annual Electricity [GJ]": 18216.7,
+        "Total Annual Gas [GJ]": 11887.91,
+        "Building Location [lat, lon]": [
+            41.880592,
+            -87.628815
+        ],
+        "Weather Location Lat": 41.880592,
+        "Weather Location Lon": -87.628815
+    },
+    "10183": {
+        "Area [m2]": 105737.46,
+        "Total Annual Electricity [GJ]": 28953.65,
+        "Total Annual Gas [GJ]": 21862.98,
+        "Building Location [lat, lon]": [
+            41.881443,
+            -87.628815
+        ],
+        "Weather Location Lat": 41.881443,
+        "Weather Location Lon": -87.628815
+    },
+    "10231": {
+        "Area [m2]": 200254.52,
+        "Total Annual Electricity [GJ]": 51789.75,
+        "Total Annual Gas [GJ]": 33718.83,
+        "Building Location [lat, lon]": [
+            41.880604,
+            -87.627686
+        ],
+        "Weather Location Lat": 41.880604,
+        "Weather Location Lon": -87.627686
+    },
+    "10250": {
+        "Area [m2]": 40985.16,
+        "Total Annual Electricity [GJ]": 12896.09,
+        "Total Annual Gas [GJ]": 10013.21,
+        "Building Location [lat, lon]": [
+            41.881462,
+            -87.626526
+        ],
+        "Weather Location Lat": 41.881462,
+        "Weather Location Lon": -87.626526
+    },
+    "10279": {
+        "Area [m2]": 110945.16,
+        "Total Annual Electricity [GJ]": 30121.29,
+        "Total Annual Gas [GJ]": 21104.69,
+        "Building Location [lat, lon]": [
+            41.880615,
+            -87.62539699999999
+        ],
+        "Weather Location Lat": 41.880615,
+        "Weather Location Lon": -87.62539699999999
+    },
+    "103": {
+        "Area [m2]": 2087.29,
+        "Total Annual Electricity [GJ]": 1459.2,
+        "Total Annual Gas [GJ]": 51.0,
+        "Building Location [lat, lon]": [
+            41.870365,
+            -87.637817
+        ],
+        "Weather Location Lat": 41.870365,
+        "Weather Location Lon": -87.637817
+    },
+    "104": {
+        "Area [m2]": 20472.32,
+        "Total Annual Electricity [GJ]": 7808.67,
+        "Total Annual Gas [GJ]": 5191.21,
+        "Building Location [lat, lon]": [
+            41.870407,
+            -87.628723
+        ],
+        "Weather Location Lat": 41.870407,
+        "Weather Location Lon": -87.628723
+    },
+    "105": {
+        "Area [m2]": 49959.61,
+        "Total Annual Electricity [GJ]": 15054.6,
+        "Total Annual Gas [GJ]": 9915.52,
+        "Building Location [lat, lon]": [
+            41.870422,
+            -87.626434
+        ],
+        "Weather Location Lat": 41.870422,
+        "Weather Location Lon": -87.626434
+    },
+    "10858": {
+        "Area [m2]": 3192.38,
+        "Total Annual Electricity [GJ]": 2245.14,
+        "Total Annual Gas [GJ]": 58.92,
+        "Building Location [lat, lon]": [
+            41.881462,
+            -87.626526
+        ],
+        "Weather Location Lat": 41.881462,
+        "Weather Location Lon": -87.626526
+    },
+    "109": {
+        "Area [m2]": 2827.05,
+        "Total Annual Electricity [GJ]": 1533.03,
+        "Total Annual Gas [GJ]": 92.88,
+        "Building Location [lat, lon]": [
+            41.87122,
+            -87.635559
+        ],
+        "Weather Location Lat": 41.87122,
+        "Weather Location Lon": -87.635559
+    },
+    "10951": {
+        "Area [m2]": 56931.09,
+        "Total Annual Electricity [GJ]": 16955.46,
+        "Total Annual Gas [GJ]": 13332.39,
+        "Building Location [lat, lon]": [
+            41.882275,
+            -87.632263
+        ],
+        "Weather Location Lat": 41.882275,
+        "Weather Location Lon": -87.632263
+    },
+    "10952": {
+        "Area [m2]": 190733.77,
+        "Total Annual Electricity [GJ]": 49690.93,
+        "Total Annual Gas [GJ]": 35764.63,
+        "Building Location [lat, lon]": [
+            41.882286,
+            -87.63110400000001
+        ],
+        "Weather Location Lat": 41.882286,
+        "Weather Location Lon": -87.63110400000001
+    },
+    "10953": {
+        "Area [m2]": 127012.85,
+        "Total Annual Electricity [GJ]": 33984.24,
+        "Total Annual Gas [GJ]": 23991.92,
+        "Building Location [lat, lon]": [
+            41.882290000000005,
+            -87.628845
+        ],
+        "Weather Location Lat": 41.882290000000005,
+        "Weather Location Lon": -87.628845
+    },
+    "10954": {
+        "Area [m2]": 121372.19,
+        "Total Annual Electricity [GJ]": 32896.9,
+        "Total Annual Gas [GJ]": 26542.9,
+        "Building Location [lat, lon]": [
+            41.882271,
+            -87.63452099999999
+        ],
+        "Weather Location Lat": 41.882271,
+        "Weather Location Lon": -87.63452099999999
+    },
+    "10955": {
+        "Area [m2]": 69136.61,
+        "Total Annual Electricity [GJ]": 19759.55,
+        "Total Annual Gas [GJ]": 13510.03,
+        "Building Location [lat, lon]": [
+            41.882275,
+            -87.632263
+        ],
+        "Weather Location Lat": 41.882275,
+        "Weather Location Lon": -87.632263
+    },
+    "10957": {
+        "Area [m2]": 86718.57,
+        "Total Annual Electricity [GJ]": 24398.27,
+        "Total Annual Gas [GJ]": 19949.86,
+        "Building Location [lat, lon]": [
+            41.882256,
+            -87.635681
+        ],
+        "Weather Location Lat": 41.882256,
+        "Weather Location Lon": -87.635681
+    },
+    "10967": {
+        "Area [m2]": 195468.37,
+        "Total Annual Electricity [GJ]": 51001.05,
+        "Total Annual Gas [GJ]": 39070.78,
+        "Building Location [lat, lon]": [
+            41.882244,
+            -87.63681
+        ],
+        "Weather Location Lat": 41.882244,
+        "Weather Location Lon": -87.63681
+    },
+    "11": {
+        "Area [m2]": 754.84,
+        "Total Annual Electricity [GJ]": 597.03,
+        "Total Annual Gas [GJ]": 45.99,
+        "Building Location [lat, lon]": [
+            41.867859,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.867859,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "110": {
+        "Area [m2]": 5710.31,
+        "Total Annual Electricity [GJ]": 2732.18,
+        "Total Annual Gas [GJ]": 220.54,
+        "Building Location [lat, lon]": [
+            41.870399,
+            -87.629852
+        ],
+        "Weather Location Lat": 41.870399,
+        "Weather Location Lon": -87.629852
+    },
+    "11140": {
+        "Area [m2]": 280.99,
+        "Total Annual Electricity [GJ]": 304.32,
+        "Total Annual Gas [GJ]": 41.73,
+        "Building Location [lat, lon]": [
+            41.882290000000005,
+            -87.629974
+        ],
+        "Weather Location Lat": 41.882290000000005,
+        "Weather Location Lon": -87.629974
+    },
+    "113": {
+        "Area [m2]": 80254.33,
+        "Total Annual Electricity [GJ]": 22567.03,
+        "Total Annual Gas [GJ]": 14828.48,
+        "Building Location [lat, lon]": [
+            41.870419,
+            -87.627563
+        ],
+        "Weather Location Lat": 41.870419,
+        "Weather Location Lon": -87.627563
+    },
+    "114": {
+        "Area [m2]": 43059.35,
+        "Total Annual Electricity [GJ]": 13354.23,
+        "Total Annual Gas [GJ]": 8848.87,
+        "Building Location [lat, lon]": [
+            41.871277,
+            -87.626434
+        ],
+        "Weather Location Lat": 41.871277,
+        "Weather Location Lon": -87.626434
+    },
+    "11484": {
+        "Area [m2]": 3221.58,
+        "Total Annual Electricity [GJ]": 2144.17,
+        "Total Annual Gas [GJ]": 64.14,
+        "Building Location [lat, lon]": [
+            41.882275,
+            -87.633392
+        ],
+        "Weather Location Lat": 41.882275,
+        "Weather Location Lon": -87.633392
+    },
+    "115": {
+        "Area [m2]": 18515.21,
+        "Total Annual Electricity [GJ]": 6150.44,
+        "Total Annual Gas [GJ]": 1230.96,
+        "Building Location [lat, lon]": [
+            41.871277,
+            -87.62530500000001
+        ],
+        "Weather Location Lat": 41.871277,
+        "Weather Location Lon": -87.62530500000001
+    },
+    "11550": {
+        "Area [m2]": 124467.94,
+        "Total Annual Electricity [GJ]": 33594.2,
+        "Total Annual Gas [GJ]": 26145.92,
+        "Building Location [lat, lon]": [
+            41.882275,
+            -87.633392
+        ],
+        "Weather Location Lat": 41.882275,
+        "Weather Location Lon": -87.633392
+    },
+    "11581": {
+        "Area [m2]": 96930.51,
+        "Total Annual Electricity [GJ]": 26612.79,
+        "Total Annual Gas [GJ]": 17626.49,
+        "Building Location [lat, lon]": [
+            41.882305,
+            -87.62539699999999
+        ],
+        "Weather Location Lat": 41.882305,
+        "Weather Location Lon": -87.62539699999999
+    },
+    "11586": {
+        "Area [m2]": 98999.61,
+        "Total Annual Electricity [GJ]": 27137.02,
+        "Total Annual Gas [GJ]": 18124.68,
+        "Building Location [lat, lon]": [
+            41.882305,
+            -87.62539699999999
+        ],
+        "Weather Location Lat": 41.882305,
+        "Weather Location Lon": -87.62539699999999
+    },
+    "116": {
+        "Area [m2]": 42354.27,
+        "Total Annual Electricity [GJ]": 13714.28,
+        "Total Annual Gas [GJ]": 2833.94,
+        "Building Location [lat, lon]": [
+            41.871277,
+            -87.62530500000001
+        ],
+        "Weather Location Lat": 41.871277,
+        "Weather Location Lon": -87.62530500000001
+    },
+    "11606": {
+        "Area [m2]": 224363.03,
+        "Total Annual Electricity [GJ]": 57765.52,
+        "Total Annual Gas [GJ]": 38830.46,
+        "Building Location [lat, lon]": [
+            41.882294,
+            -87.627686
+        ],
+        "Weather Location Lat": 41.882294,
+        "Weather Location Lon": -87.627686
+    },
+    "11608": {
+        "Area [m2]": 99566.99,
+        "Total Annual Electricity [GJ]": 27409.08,
+        "Total Annual Gas [GJ]": 20910.2,
+        "Building Location [lat, lon]": [
+            41.882290000000005,
+            -87.629974
+        ],
+        "Weather Location Lat": 41.882290000000005,
+        "Weather Location Lon": -87.629974
+    },
+    "11619": {
+        "Area [m2]": 85582.76,
+        "Total Annual Electricity [GJ]": 23744.18,
+        "Total Annual Gas [GJ]": 16189.23,
+        "Building Location [lat, lon]": [
+            41.882290000000005,
+            -87.628845
+        ],
+        "Weather Location Lat": 41.882290000000005,
+        "Weather Location Lon": -87.628845
+    },
+    "11632": {
+        "Area [m2]": 141825.49,
+        "Total Annual Electricity [GJ]": 37601.06,
+        "Total Annual Gas [GJ]": 26195.15,
+        "Building Location [lat, lon]": [
+            41.882275,
+            -87.632263
+        ],
+        "Weather Location Lat": 41.882275,
+        "Weather Location Lon": -87.632263
+    },
+    "11634": {
+        "Area [m2]": 71381.0,
+        "Total Annual Electricity [GJ]": 20525.32,
+        "Total Annual Gas [GJ]": 16261.46,
+        "Building Location [lat, lon]": [
+            41.882256,
+            -87.635681
+        ],
+        "Weather Location Lat": 41.882256,
+        "Weather Location Lon": -87.635681
+    },
+    "11637": {
+        "Area [m2]": 140876.45,
+        "Total Annual Electricity [GJ]": 37462.79,
+        "Total Annual Gas [GJ]": 27486.57,
+        "Building Location [lat, lon]": [
+            41.882275,
+            -87.633392
+        ],
+        "Weather Location Lat": 41.882275,
+        "Weather Location Lon": -87.633392
+    },
+    "11640": {
+        "Area [m2]": 37398.57,
+        "Total Annual Electricity [GJ]": 12107.98,
+        "Total Annual Gas [GJ]": 9371.2,
+        "Building Location [lat, lon]": [
+            41.882286,
+            -87.63110400000001
+        ],
+        "Weather Location Lat": 41.882286,
+        "Weather Location Lon": -87.63110400000001
+    },
+    "11677": {
+        "Area [m2]": 208116.18,
+        "Total Annual Electricity [GJ]": 53984.22,
+        "Total Annual Gas [GJ]": 36206.87,
+        "Building Location [lat, lon]": [
+            41.88224,
+            -87.637939
+        ],
+        "Weather Location Lat": 41.88224,
+        "Weather Location Lon": -87.637939
+    },
+    "11678": {
+        "Area [m2]": 16613.54,
+        "Total Annual Electricity [GJ]": 6916.0,
+        "Total Annual Gas [GJ]": 4285.57,
+        "Building Location [lat, lon]": [
+            41.882244,
+            -87.63681
+        ],
+        "Weather Location Lat": 41.882244,
+        "Weather Location Lon": -87.63681
+    },
+    "11682": {
+        "Area [m2]": 74513.09,
+        "Total Annual Electricity [GJ]": 21145.1,
+        "Total Annual Gas [GJ]": 15533.49,
+        "Building Location [lat, lon]": [
+            41.882244,
+            -87.63681
+        ],
+        "Weather Location Lat": 41.882244,
+        "Weather Location Lon": -87.63681
+    },
+    "11851": {
+        "Area [m2]": 122.03,
+        "Total Annual Electricity [GJ]": 252.2,
+        "Total Annual Gas [GJ]": 40.35,
+        "Building Location [lat, lon]": [
+            41.883156,
+            -87.62655600000001
+        ],
+        "Weather Location Lat": 41.883156,
+        "Weather Location Lon": -87.62655600000001
+    },
+    "11967": {
+        "Area [m2]": 148.19,
+        "Total Annual Electricity [GJ]": 281.51,
+        "Total Annual Gas [GJ]": 40.32,
+        "Building Location [lat, lon]": [
+            41.883133,
+            -87.629974
+        ],
+        "Weather Location Lat": 41.883133,
+        "Weather Location Lon": -87.629974
+    },
+    "12": {
+        "Area [m2]": 754.84,
+        "Total Annual Electricity [GJ]": 585.84,
+        "Total Annual Gas [GJ]": 46.6,
+        "Building Location [lat, lon]": [
+            41.867863,
+            -87.628662
+        ],
+        "Weather Location Lat": 41.867863,
+        "Weather Location Lon": -87.628662
+    },
+    "12017": {
+        "Area [m2]": 193.29,
+        "Total Annual Electricity [GJ]": 250.02,
+        "Total Annual Gas [GJ]": 40.96,
+        "Building Location [lat, lon]": [
+            41.883133,
+            -87.629974
+        ],
+        "Weather Location Lat": 41.883133,
+        "Weather Location Lon": -87.629974
+    },
+    "121": {
+        "Area [m2]": 14006.31,
+        "Total Annual Electricity [GJ]": 6028.53,
+        "Total Annual Gas [GJ]": 637.05,
+        "Building Location [lat, lon]": [
+            41.871254,
+            -87.629852
+        ],
+        "Weather Location Lat": 41.871254,
+        "Weather Location Lon": -87.629852
+    },
+    "122": {
+        "Area [m2]": 107087.96,
+        "Total Annual Electricity [GJ]": 32335.11,
+        "Total Annual Gas [GJ]": 7437.76,
+        "Building Location [lat, lon]": [
+            41.870377000000005,
+            -87.634399
+        ],
+        "Weather Location Lat": 41.870377000000005,
+        "Weather Location Lon": -87.634399
+    },
+    "123": {
+        "Area [m2]": 17997.97,
+        "Total Annual Electricity [GJ]": 7220.81,
+        "Total Annual Gas [GJ]": 4318.67,
+        "Building Location [lat, lon]": [
+            41.872078,
+            -87.633301
+        ],
+        "Weather Location Lat": 41.872078,
+        "Weather Location Lon": -87.633301
+    },
+    "12377": {
+        "Area [m2]": 139.38,
+        "Total Annual Electricity [GJ]": 260.05,
+        "Total Annual Gas [GJ]": 40.33,
+        "Building Location [lat, lon]": [
+            41.883133,
+            -87.629974
+        ],
+        "Weather Location Lat": 41.883133,
+        "Weather Location Lon": -87.629974
+    },
+    "124": {
+        "Area [m2]": 29402.38,
+        "Total Annual Electricity [GJ]": 12354.81,
+        "Total Annual Gas [GJ]": 1335.46,
+        "Building Location [lat, lon]": [
+            41.871258000000005,
+            -87.628723
+        ],
+        "Weather Location Lat": 41.871258000000005,
+        "Weather Location Lon": -87.628723
+    },
+    "125": {
+        "Area [m2]": 15654.25,
+        "Total Annual Electricity [GJ]": 5607.07,
+        "Total Annual Gas [GJ]": 943.21,
+        "Building Location [lat, lon]": [
+            41.871254,
+            -87.629852
+        ],
+        "Weather Location Lat": 41.871254,
+        "Weather Location Lon": -87.629852
+    },
+    "12571": {
+        "Area [m2]": 107374.93,
+        "Total Annual Electricity [GJ]": 29283.26,
+        "Total Annual Gas [GJ]": 24911.35,
+        "Building Location [lat, lon]": [
+            41.883114,
+            -87.633392
+        ],
+        "Weather Location Lat": 41.883114,
+        "Weather Location Lon": -87.633392
+    },
+    "12579": {
+        "Area [m2]": 822.41,
+        "Total Annual Electricity [GJ]": 648.08,
+        "Total Annual Gas [GJ]": 45.36,
+        "Building Location [lat, lon]": [
+            41.883990999999995,
+            -87.629974
+        ],
+        "Weather Location Lat": 41.883990999999995,
+        "Weather Location Lon": -87.629974
+    },
+    "12584": {
+        "Area [m2]": 600.72,
+        "Total Annual Electricity [GJ]": 449.47,
+        "Total Annual Gas [GJ]": 46.99,
+        "Building Location [lat, lon]": [
+            41.883984000000005,
+            -87.631134
+        ],
+        "Weather Location Lat": 41.883984000000005,
+        "Weather Location Lon": -87.631134
+    },
+    "12593": {
+        "Area [m2]": 107576.88,
+        "Total Annual Electricity [GJ]": 29143.34,
+        "Total Annual Gas [GJ]": 19733.74,
+        "Building Location [lat, lon]": [
+            41.883095000000004,
+            -87.635681
+        ],
+        "Weather Location Lat": 41.883095000000004,
+        "Weather Location Lon": -87.635681
+    },
+    "126": {
+        "Area [m2]": 615.25,
+        "Total Annual Electricity [GJ]": 563.02,
+        "Total Annual Gas [GJ]": 42.51,
+        "Building Location [lat, lon]": [
+            41.872063,
+            -87.636719
+        ],
+        "Weather Location Lat": 41.872063,
+        "Weather Location Lon": -87.636719
+    },
+    "12604": {
+        "Area [m2]": 76629.56,
+        "Total Annual Electricity [GJ]": 21715.48,
+        "Total Annual Gas [GJ]": 15776.72,
+        "Building Location [lat, lon]": [
+            41.883095000000004,
+            -87.63681
+        ],
+        "Weather Location Lat": 41.883095000000004,
+        "Weather Location Lon": -87.63681
+    },
+    "131": {
+        "Area [m2]": 16993.83,
+        "Total Annual Electricity [GJ]": 7051.99,
+        "Total Annual Gas [GJ]": 838.52,
+        "Building Location [lat, lon]": [
+            41.872078,
+            -87.633301
+        ],
+        "Weather Location Lat": 41.872078,
+        "Weather Location Lon": -87.633301
+    },
+    "13129": {
+        "Area [m2]": 226461.59,
+        "Total Annual Electricity [GJ]": 58653.76,
+        "Total Annual Gas [GJ]": 45019.2,
+        "Building Location [lat, lon]": [
+            41.883984000000005,
+            -87.631134
+        ],
+        "Weather Location Lat": 41.883984000000005,
+        "Weather Location Lon": -87.631134
+    },
+    "13173": {
+        "Area [m2]": 117565.58,
+        "Total Annual Electricity [GJ]": 31826.4,
+        "Total Annual Gas [GJ]": 24239.95,
+        "Building Location [lat, lon]": [
+            41.883953000000005,
+            -87.635681
+        ],
+        "Weather Location Lat": 41.883953000000005,
+        "Weather Location Lon": -87.635681
+    },
+    "132": {
+        "Area [m2]": 11906.07,
+        "Total Annual Electricity [GJ]": 4831.44,
+        "Total Annual Gas [GJ]": 609.29,
+        "Building Location [lat, lon]": [
+            41.872093,
+            -87.631012
+        ],
+        "Weather Location Lat": 41.872093,
+        "Weather Location Lon": -87.631012
+    },
+    "13200": {
+        "Area [m2]": 194906.56,
+        "Total Annual Electricity [GJ]": 50423.41,
+        "Total Annual Gas [GJ]": 30725.37,
+        "Building Location [lat, lon]": [
+            41.883117999999996,
+            -87.632263
+        ],
+        "Weather Location Lat": 41.883117999999996,
+        "Weather Location Lon": -87.632263
+    },
+    "13202": {
+        "Area [m2]": 45381.44,
+        "Total Annual Electricity [GJ]": 14776.72,
+        "Total Annual Gas [GJ]": 3041.25,
+        "Building Location [lat, lon]": [
+            41.883163,
+            -87.625427
+        ],
+        "Weather Location Lat": 41.883163,
+        "Weather Location Lon": -87.625427
+    },
+    "13206": {
+        "Area [m2]": 176447.4,
+        "Total Annual Electricity [GJ]": 46310.76,
+        "Total Annual Gas [GJ]": 32351.99,
+        "Building Location [lat, lon]": [
+            41.883156,
+            -87.62655600000001
+        ],
+        "Weather Location Lat": 41.883156,
+        "Weather Location Lon": -87.62655600000001
+    },
+    "13227": {
+        "Area [m2]": 27380.62,
+        "Total Annual Electricity [GJ]": 9555.86,
+        "Total Annual Gas [GJ]": 6713.24,
+        "Building Location [lat, lon]": [
+            41.883957,
+            -87.634552
+        ],
+        "Weather Location Lat": 41.883957,
+        "Weather Location Lon": -87.634552
+    },
+    "13231": {
+        "Area [m2]": 75503.21,
+        "Total Annual Electricity [GJ]": 21554.83,
+        "Total Annual Gas [GJ]": 17080.8,
+        "Building Location [lat, lon]": [
+            41.883942,
+            -87.636841
+        ],
+        "Weather Location Lat": 41.883942,
+        "Weather Location Lon": -87.636841
+    },
+    "13244": {
+        "Area [m2]": 141519.49,
+        "Total Annual Electricity [GJ]": 37348.31,
+        "Total Annual Gas [GJ]": 23479.84,
+        "Building Location [lat, lon]": [
+            41.883144,
+            -87.628845
+        ],
+        "Weather Location Lat": 41.883144,
+        "Weather Location Lon": -87.628845
+    },
+    "13255": {
+        "Area [m2]": 266788.33,
+        "Total Annual Electricity [GJ]": 68003.03,
+        "Total Annual Gas [GJ]": 42229.2,
+        "Building Location [lat, lon]": [
+            41.883148,
+            -87.627686
+        ],
+        "Weather Location Lat": 41.883148,
+        "Weather Location Lon": -87.627686
+    },
+    "13263": {
+        "Area [m2]": 80739.09,
+        "Total Annual Electricity [GJ]": 22527.45,
+        "Total Annual Gas [GJ]": 14938.48,
+        "Building Location [lat, lon]": [
+            41.883965,
+            -87.633423
+        ],
+        "Weather Location Lat": 41.883965,
+        "Weather Location Lon": -87.633423
+    },
+    "133": {
+        "Area [m2]": 403.84,
+        "Total Annual Electricity [GJ]": 469.49,
+        "Total Annual Gas [GJ]": 40.73,
+        "Building Location [lat, lon]": [
+            41.872085999999996,
+            -87.632141
+        ],
+        "Weather Location Lat": 41.872085999999996,
+        "Weather Location Lon": -87.632141
+    },
+    "13565": {
+        "Area [m2]": 153.58,
+        "Total Annual Electricity [GJ]": 291.42,
+        "Total Annual Gas [GJ]": 40.32,
+        "Building Location [lat, lon]": [
+            41.884865000000005,
+            -87.624298
+        ],
+        "Weather Location Lat": 41.884865000000005,
+        "Weather Location Lon": -87.624298
+    },
+    "13767": {
+        "Area [m2]": 2684.71,
+        "Total Annual Electricity [GJ]": 1231.85,
+        "Total Annual Gas [GJ]": 138.37,
+        "Building Location [lat, lon]": [
+            41.8848,
+            -87.635681
+        ],
+        "Weather Location Lat": 41.8848,
+        "Weather Location Lon": -87.635681
+    },
+    "13909": {
+        "Area [m2]": 76722.15,
+        "Total Annual Electricity [GJ]": 21866.83,
+        "Total Annual Gas [GJ]": 18421.73,
+        "Building Location [lat, lon]": [
+            41.884861,
+            -87.625427
+        ],
+        "Weather Location Lat": 41.884861,
+        "Weather Location Lon": -87.625427
+    },
+    "13987": {
+        "Area [m2]": 19972.67,
+        "Total Annual Electricity [GJ]": 6751.84,
+        "Total Annual Gas [GJ]": 1319.65,
+        "Building Location [lat, lon]": [
+            41.884857000000004,
+            -87.626587
+        ],
+        "Weather Location Lat": 41.884857000000004,
+        "Weather Location Lon": -87.626587
+    },
+    "14": {
+        "Area [m2]": 5975.49,
+        "Total Annual Electricity [GJ]": 2527.46,
+        "Total Annual Gas [GJ]": 294.05,
+        "Building Location [lat, lon]": [
+            41.86787,
+            -87.62640400000001
+        ],
+        "Weather Location Lat": 41.86787,
+        "Weather Location Lon": -87.62640400000001
+    },
+    "14004": {
+        "Area [m2]": 57234.8,
+        "Total Annual Electricity [GJ]": 16894.33,
+        "Total Annual Gas [GJ]": 12092.73,
+        "Building Location [lat, lon]": [
+            41.884811,
+            -87.633423
+        ],
+        "Weather Location Lat": 41.884811,
+        "Weather Location Lon": -87.633423
+    },
+    "14037": {
+        "Area [m2]": 100286.42,
+        "Total Annual Electricity [GJ]": 27321.06,
+        "Total Annual Gas [GJ]": 18122.93,
+        "Building Location [lat, lon]": [
+            41.884846,
+            -87.628845
+        ],
+        "Weather Location Lat": 41.884846,
+        "Weather Location Lon": -87.628845
+    },
+    "14054": {
+        "Area [m2]": 6329.02,
+        "Total Annual Electricity [GJ]": 2771.06,
+        "Total Annual Gas [GJ]": 296.58,
+        "Building Location [lat, lon]": [
+            41.8848,
+            -87.635681
+        ],
+        "Weather Location Lat": 41.8848,
+        "Weather Location Lon": -87.635681
+    },
+    "14056": {
+        "Area [m2]": 16107.7,
+        "Total Annual Electricity [GJ]": 5632.08,
+        "Total Annual Gas [GJ]": 1024.66,
+        "Building Location [lat, lon]": [
+            41.884803999999995,
+            -87.634552
+        ],
+        "Weather Location Lat": 41.884803999999995,
+        "Weather Location Lon": -87.634552
+    },
+    "14058": {
+        "Area [m2]": 174058.1,
+        "Total Annual Electricity [GJ]": 45713.0,
+        "Total Annual Gas [GJ]": 33829.61,
+        "Building Location [lat, lon]": [
+            41.8848,
+            -87.636841
+        ],
+        "Weather Location Lat": 41.8848,
+        "Weather Location Lon": -87.636841
+    },
+    "141": {
+        "Area [m2]": 40090.55,
+        "Total Annual Electricity [GJ]": 12601.11,
+        "Total Annual Gas [GJ]": 7953.7,
+        "Building Location [lat, lon]": [
+            41.872108000000004,
+            -87.62759399999999
+        ],
+        "Weather Location Lat": 41.872108000000004,
+        "Weather Location Lon": -87.62759399999999
+    },
+    "14256": {
+        "Area [m2]": 148.11,
+        "Total Annual Electricity [GJ]": 238.76,
+        "Total Annual Gas [GJ]": 40.53,
+        "Building Location [lat, lon]": [
+            41.8857,
+            -87.626587
+        ],
+        "Weather Location Lat": 41.8857,
+        "Weather Location Lon": -87.626587
+    },
+    "14389": {
+        "Area [m2]": 1464.03,
+        "Total Annual Electricity [GJ]": 1191.62,
+        "Total Annual Gas [GJ]": 43.5,
+        "Building Location [lat, lon]": [
+            41.884811,
+            -87.633423
+        ],
+        "Weather Location Lat": 41.884811,
+        "Weather Location Lon": -87.633423
+    },
+    "14398": {
+        "Area [m2]": 1215.48,
+        "Total Annual Electricity [GJ]": 1255.85,
+        "Total Annual Gas [GJ]": 40.95,
+        "Building Location [lat, lon]": [
+            41.884811,
+            -87.633423
+        ],
+        "Weather Location Lat": 41.884811,
+        "Weather Location Lon": -87.633423
+    },
+    "1449": {
+        "Area [m2]": 4516.65,
+        "Total Annual Electricity [GJ]": 3787.81,
+        "Total Annual Gas [GJ]": 1712.59,
+        "Building Location [lat, lon]": [
+            41.875481,
+            -87.633301
+        ],
+        "Weather Location Lat": 41.875481,
+        "Weather Location Lon": -87.633301
+    },
+    "14669": {
+        "Area [m2]": 35461.75,
+        "Total Annual Electricity [GJ]": 11435.59,
+        "Total Annual Gas [GJ]": 7456.64,
+        "Building Location [lat, lon]": [
+            41.884861,
+            -87.625427
+        ],
+        "Weather Location Lat": 41.884861,
+        "Weather Location Lon": -87.625427
+    },
+    "14692": {
+        "Area [m2]": 59865.44,
+        "Total Annual Electricity [GJ]": 17373.19,
+        "Total Annual Gas [GJ]": 10982.88,
+        "Building Location [lat, lon]": [
+            41.88485,
+            -87.627716
+        ],
+        "Weather Location Lat": 41.88485,
+        "Weather Location Lon": -87.627716
+    },
+    "14697": {
+        "Area [m2]": 192558.26,
+        "Total Annual Electricity [GJ]": 49882.49,
+        "Total Annual Gas [GJ]": 32170.84,
+        "Building Location [lat, lon]": [
+            41.884823,
+            -87.631134
+        ],
+        "Weather Location Lat": 41.884823,
+        "Weather Location Lon": -87.631134
+    },
+    "14701": {
+        "Area [m2]": 110533.48,
+        "Total Annual Electricity [GJ]": 30199.29,
+        "Total Annual Gas [GJ]": 23538.72,
+        "Building Location [lat, lon]": [
+            41.8848,
+            -87.636841
+        ],
+        "Weather Location Lat": 41.8848,
+        "Weather Location Lon": -87.636841
+    },
+    "14705": {
+        "Area [m2]": 161962.39,
+        "Total Annual Electricity [GJ]": 42694.04,
+        "Total Annual Gas [GJ]": 30650.17,
+        "Building Location [lat, lon]": [
+            41.884811,
+            -87.633423
+        ],
+        "Weather Location Lat": 41.884811,
+        "Weather Location Lon": -87.633423
+    },
+    "14713": {
+        "Area [m2]": 67912.77,
+        "Total Annual Electricity [GJ]": 19350.3,
+        "Total Annual Gas [GJ]": 12189.02,
+        "Building Location [lat, lon]": [
+            41.884846,
+            -87.628845
+        ],
+        "Weather Location Lat": 41.884846,
+        "Weather Location Lon": -87.628845
+    },
+    "14714": {
+        "Area [m2]": 44285.61,
+        "Total Annual Electricity [GJ]": 13924.9,
+        "Total Annual Gas [GJ]": 11023.4,
+        "Building Location [lat, lon]": [
+            41.884789000000005,
+            -87.63797
+        ],
+        "Weather Location Lat": 41.884789000000005,
+        "Weather Location Lon": -87.63797
+    },
+    "14718": {
+        "Area [m2]": 27335.64,
+        "Total Annual Electricity [GJ]": 9188.29,
+        "Total Annual Gas [GJ]": 1828.91,
+        "Building Location [lat, lon]": [
+            41.8848,
+            -87.635681
+        ],
+        "Weather Location Lat": 41.8848,
+        "Weather Location Lon": -87.635681
+    },
+    "14720": {
+        "Area [m2]": 38374.67,
+        "Total Annual Electricity [GJ]": 12154.24,
+        "Total Annual Gas [GJ]": 7564.27,
+        "Building Location [lat, lon]": [
+            41.8848,
+            -87.635681
+        ],
+        "Weather Location Lat": 41.8848,
+        "Weather Location Lon": -87.635681
+    },
+    "14794": {
+        "Area [m2]": 641.13,
+        "Total Annual Electricity [GJ]": 649.12,
+        "Total Annual Gas [GJ]": 41.8,
+        "Building Location [lat, lon]": [
+            41.885689,
+            -87.627716
+        ],
+        "Weather Location Lat": 41.885689,
+        "Weather Location Lon": -87.627716
+    },
+    "14933": {
+        "Area [m2]": 6032.8,
+        "Total Annual Electricity [GJ]": 3750.45,
+        "Total Annual Gas [GJ]": 130.47,
+        "Building Location [lat, lon]": [
+            41.885670000000005,
+            -87.632263
+        ],
+        "Weather Location Lat": 41.885670000000005,
+        "Weather Location Lon": -87.632263
+    },
+    "14938": {
+        "Area [m2]": 182.54,
+        "Total Annual Electricity [GJ]": 338.17,
+        "Total Annual Gas [GJ]": 40.36,
+        "Building Location [lat, lon]": [
+            41.885661999999996,
+            -87.634552
+        ],
+        "Weather Location Lat": 41.885661999999996,
+        "Weather Location Lon": -87.634552
+    },
+    "14944": {
+        "Area [m2]": 677.54,
+        "Total Annual Electricity [GJ]": 614.19,
+        "Total Annual Gas [GJ]": 43.07,
+        "Building Location [lat, lon]": [
+            41.885689,
+            -87.627716
+        ],
+        "Weather Location Lat": 41.885689,
+        "Weather Location Lon": -87.627716
+    },
+    "1498": {
+        "Area [m2]": 17981.29,
+        "Total Annual Electricity [GJ]": 7202.24,
+        "Total Annual Gas [GJ]": 4035.42,
+        "Building Location [lat, lon]": [
+            41.874657,
+            -87.628754
+        ],
+        "Weather Location Lat": 41.874657,
+        "Weather Location Lon": -87.628754
+    },
+    "15": {
+        "Area [m2]": 5323.7,
+        "Total Annual Electricity [GJ]": 1996.38,
+        "Total Annual Gas [GJ]": 323.27,
+        "Building Location [lat, lon]": [
+            41.867878000000005,
+            -87.625244
+        ],
+        "Weather Location Lat": 41.867878000000005,
+        "Weather Location Lon": -87.625244
+    },
+    "153": {
+        "Area [m2]": 111.81,
+        "Total Annual Electricity [GJ]": 268.67,
+        "Total Annual Gas [GJ]": 40.29,
+        "Building Location [lat, lon]": [
+            41.87294,
+            -87.632141
+        ],
+        "Weather Location Lat": 41.87294,
+        "Weather Location Lon": -87.632141
+    },
+    "1534": {
+        "Area [m2]": 38326.57,
+        "Total Annual Electricity [GJ]": 12240.3,
+        "Total Annual Gas [GJ]": 8116.18,
+        "Building Location [lat, lon]": [
+            41.874649,
+            -87.62988299999999
+        ],
+        "Weather Location Lat": 41.874649,
+        "Weather Location Lon": -87.62988299999999
+    },
+    "154": {
+        "Area [m2]": 20725.71,
+        "Total Annual Electricity [GJ]": 7889.76,
+        "Total Annual Gas [GJ]": 4708.74,
+        "Building Location [lat, lon]": [
+            41.872078,
+            -87.633301
+        ],
+        "Weather Location Lat": 41.872078,
+        "Weather Location Lon": -87.633301
+    },
+    "15400": {
+        "Area [m2]": 63638.39,
+        "Total Annual Electricity [GJ]": 18373.82,
+        "Total Annual Gas [GJ]": 12837.6,
+        "Building Location [lat, lon]": [
+            41.885689,
+            -87.627716
+        ],
+        "Weather Location Lat": 41.885689,
+        "Weather Location Lon": -87.627716
+    },
+    "15419": {
+        "Area [m2]": 49787.81,
+        "Total Annual Electricity [GJ]": 14985.45,
+        "Total Annual Gas [GJ]": 10174.27,
+        "Building Location [lat, lon]": [
+            41.8857,
+            -87.626587
+        ],
+        "Weather Location Lat": 41.8857,
+        "Weather Location Lon": -87.626587
+    },
+    "15460": {
+        "Area [m2]": 106185.22,
+        "Total Annual Electricity [GJ]": 28981.86,
+        "Total Annual Gas [GJ]": 22822.57,
+        "Building Location [lat, lon]": [
+            41.885661999999996,
+            -87.633423
+        ],
+        "Weather Location Lat": 41.885661999999996,
+        "Weather Location Lon": -87.633423
+    },
+    "15461": {
+        "Area [m2]": 58732.09,
+        "Total Annual Electricity [GJ]": 17273.76,
+        "Total Annual Gas [GJ]": 12604.94,
+        "Building Location [lat, lon]": [
+            41.885661999999996,
+            -87.634552
+        ],
+        "Weather Location Lat": 41.885661999999996,
+        "Weather Location Lon": -87.634552
+    },
+    "15641": {
+        "Area [m2]": 124719.1,
+        "Total Annual Electricity [GJ]": 33676.9,
+        "Total Annual Gas [GJ]": 26131.05,
+        "Building Location [lat, lon]": [
+            41.885643,
+            -87.636841
+        ],
+        "Weather Location Lat": 41.885643,
+        "Weather Location Lon": -87.636841
+    },
+    "15719": {
+        "Area [m2]": 226660.3,
+        "Total Annual Electricity [GJ]": 58556.92,
+        "Total Annual Gas [GJ]": 43026.01,
+        "Building Location [lat, lon]": [
+            41.885719,
+            -87.624298
+        ],
+        "Weather Location Lat": 41.885719,
+        "Weather Location Lon": -87.624298
+    },
+    "1574": {
+        "Area [m2]": 28472.35,
+        "Total Annual Electricity [GJ]": 9792.82,
+        "Total Annual Gas [GJ]": 6556.41,
+        "Building Location [lat, lon]": [
+            41.874638,
+            -87.63104200000001
+        ],
+        "Weather Location Lat": 41.874638,
+        "Weather Location Lon": -87.63104200000001
+    },
+    "1580": {
+        "Area [m2]": 25880.84,
+        "Total Annual Electricity [GJ]": 9188.91,
+        "Total Annual Gas [GJ]": 6134.79,
+        "Building Location [lat, lon]": [
+            41.874649,
+            -87.62988299999999
+        ],
+        "Weather Location Lat": 41.874649,
+        "Weather Location Lon": -87.62988299999999
+    },
+    "1586": {
+        "Area [m2]": 18288.3,
+        "Total Annual Electricity [GJ]": 7314.34,
+        "Total Annual Gas [GJ]": 4436.8,
+        "Building Location [lat, lon]": [
+            41.874657,
+            -87.628754
+        ],
+        "Weather Location Lat": 41.874657,
+        "Weather Location Lon": -87.628754
+    },
+    "15879": {
+        "Area [m2]": 35872.55,
+        "Total Annual Electricity [GJ]": 11627.46,
+        "Total Annual Gas [GJ]": 8349.24,
+        "Building Location [lat, lon]": [
+            41.886532,
+            -87.63000500000001
+        ],
+        "Weather Location Lat": 41.886532,
+        "Weather Location Lon": -87.63000500000001
+    },
+    "15886": {
+        "Area [m2]": 56926.14,
+        "Total Annual Electricity [GJ]": 16785.66,
+        "Total Annual Gas [GJ]": 11007.17,
+        "Building Location [lat, lon]": [
+            41.885708,
+            -87.625427
+        ],
+        "Weather Location Lat": 41.885708,
+        "Weather Location Lon": -87.625427
+    },
+    "15897": {
+        "Area [m2]": 49102.53,
+        "Total Annual Electricity [GJ]": 14826.71,
+        "Total Annual Gas [GJ]": 10201.42,
+        "Building Location [lat, lon]": [
+            41.886547,
+            -87.626587
+        ],
+        "Weather Location Lat": 41.886547,
+        "Weather Location Lon": -87.626587
+    },
+    "15943": {
+        "Area [m2]": 148130.04,
+        "Total Annual Electricity [GJ]": 39241.71,
+        "Total Annual Gas [GJ]": 29564.2,
+        "Building Location [lat, lon]": [
+            41.886542999999996,
+            -87.627747
+        ],
+        "Weather Location Lat": 41.886542999999996,
+        "Weather Location Lon": -87.627747
+    },
+    "15948": {
+        "Area [m2]": 112614.98,
+        "Total Annual Electricity [GJ]": 30458.29,
+        "Total Annual Gas [GJ]": 21774.13,
+        "Building Location [lat, lon]": [
+            41.886517,
+            -87.63229399999999
+        ],
+        "Weather Location Lat": 41.886517,
+        "Weather Location Lon": -87.63229399999999
+    },
+    "15966": {
+        "Area [m2]": 565480.81,
+        "Total Annual Electricity [GJ]": 142073.38,
+        "Total Annual Gas [GJ]": 114768.62,
+        "Building Location [lat, lon]": [
+            41.885670000000005,
+            -87.632263
+        ],
+        "Weather Location Lat": 41.885670000000005,
+        "Weather Location Lon": -87.632263
+    },
+    "15970": {
+        "Area [m2]": 96143.97,
+        "Total Annual Electricity [GJ]": 26689.85,
+        "Total Annual Gas [GJ]": 19986.93,
+        "Building Location [lat, lon]": [
+            41.885651,
+            -87.635712
+        ],
+        "Weather Location Lat": 41.885651,
+        "Weather Location Lon": -87.635712
+    },
+    "15979": {
+        "Area [m2]": 124059.49,
+        "Total Annual Electricity [GJ]": 33305.28,
+        "Total Annual Gas [GJ]": 24167.95,
+        "Building Location [lat, lon]": [
+            41.886509000000004,
+            -87.633423
+        ],
+        "Weather Location Lat": 41.886509000000004,
+        "Weather Location Lon": -87.633423
+    },
+    "15983": {
+        "Area [m2]": 55117.65,
+        "Total Annual Electricity [GJ]": 16350.14,
+        "Total Annual Gas [GJ]": 11478.14,
+        "Building Location [lat, lon]": [
+            41.886509000000004,
+            -87.63458299999999
+        ],
+        "Weather Location Lat": 41.886509000000004,
+        "Weather Location Lon": -87.63458299999999
+    },
+    "1609": {
+        "Area [m2]": 44058.03,
+        "Total Annual Electricity [GJ]": 13670.21,
+        "Total Annual Gas [GJ]": 9435.1,
+        "Building Location [lat, lon]": [
+            41.874664,
+            -87.627625
+        ],
+        "Weather Location Lat": 41.874664,
+        "Weather Location Lon": -87.627625
+    },
+    "1623": {
+        "Area [m2]": 81355.63,
+        "Total Annual Electricity [GJ]": 22685.22,
+        "Total Annual Gas [GJ]": 14152.63,
+        "Building Location [lat, lon]": [
+            41.874638,
+            -87.63104200000001
+        ],
+        "Weather Location Lat": 41.874638,
+        "Weather Location Lon": -87.63104200000001
+    },
+    "16395": {
+        "Area [m2]": 10020.1,
+        "Total Annual Electricity [GJ]": 5245.72,
+        "Total Annual Gas [GJ]": 3529.54,
+        "Building Location [lat, lon]": [
+            41.886547,
+            -87.625458
+        ],
+        "Weather Location Lat": 41.886547,
+        "Weather Location Lon": -87.625458
+    },
+    "16526": {
+        "Area [m2]": 23135.86,
+        "Total Annual Electricity [GJ]": 8547.09,
+        "Total Annual Gas [GJ]": 6579.77,
+        "Building Location [lat, lon]": [
+            41.88657,
+            -87.624298
+        ],
+        "Weather Location Lat": 41.88657,
+        "Weather Location Lon": -87.624298
+    },
+    "16941": {
+        "Area [m2]": 21757.03,
+        "Total Annual Electricity [GJ]": 7798.86,
+        "Total Annual Gas [GJ]": 1323.13,
+        "Building Location [lat, lon]": [
+            41.886547,
+            -87.625458
+        ],
+        "Weather Location Lat": 41.886547,
+        "Weather Location Lon": -87.625458
+    },
+    "16953": {
+        "Area [m2]": 48278.8,
+        "Total Annual Electricity [GJ]": 14685.02,
+        "Total Annual Gas [GJ]": 10194.15,
+        "Building Location [lat, lon]": [
+            41.886547,
+            -87.625458
+        ],
+        "Weather Location Lat": 41.886547,
+        "Weather Location Lon": -87.625458
+    },
+    "1697": {
+        "Area [m2]": 241.89,
+        "Total Annual Electricity [GJ]": 377.34,
+        "Total Annual Gas [GJ]": 40.47,
+        "Building Location [lat, lon]": [
+            41.875465000000005,
+            -87.63559000000001
+        ],
+        "Weather Location Lat": 41.875465000000005,
+        "Weather Location Lon": -87.63559000000001
+    },
+    "17": {
+        "Area [m2]": 754.85,
+        "Total Annual Electricity [GJ]": 600.73,
+        "Total Annual Gas [GJ]": 45.81,
+        "Building Location [lat, lon]": [
+            41.867859,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.867859,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "1700": {
+        "Area [m2]": 40048.93,
+        "Total Annual Electricity [GJ]": 12644.61,
+        "Total Annual Gas [GJ]": 2827.15,
+        "Building Location [lat, lon]": [
+            41.874598999999996,
+            -87.637878
+        ],
+        "Weather Location Lat": 41.874598999999996,
+        "Weather Location Lon": -87.637878
+    },
+    "1709": {
+        "Area [m2]": 75127.34,
+        "Total Annual Electricity [GJ]": 21231.97,
+        "Total Annual Gas [GJ]": 13616.92,
+        "Building Location [lat, lon]": [
+            41.874664,
+            -87.627625
+        ],
+        "Weather Location Lat": 41.874664,
+        "Weather Location Lon": -87.627625
+    },
+    "17163": {
+        "Area [m2]": 11660.55,
+        "Total Annual Electricity [GJ]": 5645.33,
+        "Total Annual Gas [GJ]": 3926.49,
+        "Building Location [lat, lon]": [
+            41.887413,
+            -87.624329
+        ],
+        "Weather Location Lat": 41.887413,
+        "Weather Location Lon": -87.624329
+    },
+    "173": {
+        "Area [m2]": 8670.61,
+        "Total Annual Electricity [GJ]": 3266.96,
+        "Total Annual Gas [GJ]": 497.6,
+        "Building Location [lat, lon]": [
+            41.872101,
+            -87.629852
+        ],
+        "Weather Location Lat": 41.872101,
+        "Weather Location Lon": -87.629852
+    },
+    "1755": {
+        "Area [m2]": 21690.6,
+        "Total Annual Electricity [GJ]": 8059.34,
+        "Total Annual Gas [GJ]": 4472.73,
+        "Building Location [lat, lon]": [
+            41.875515,
+            -87.626465
+        ],
+        "Weather Location Lat": 41.875515,
+        "Weather Location Lon": -87.626465
+    },
+    "1779": {
+        "Area [m2]": 90214.74,
+        "Total Annual Electricity [GJ]": 24884.15,
+        "Total Annual Gas [GJ]": 17061.92,
+        "Building Location [lat, lon]": [
+            41.874676,
+            -87.625336
+        ],
+        "Weather Location Lat": 41.874676,
+        "Weather Location Lon": -87.625336
+    },
+    "18": {
+        "Area [m2]": 754.85,
+        "Total Annual Electricity [GJ]": 588.2,
+        "Total Annual Gas [GJ]": 46.46,
+        "Building Location [lat, lon]": [
+            41.867863,
+            -87.628662
+        ],
+        "Weather Location Lat": 41.867863,
+        "Weather Location Lon": -87.628662
+    },
+    "19": {
+        "Area [m2]": 7470.48,
+        "Total Annual Electricity [GJ]": 3634.73,
+        "Total Annual Gas [GJ]": 246.43,
+        "Building Location [lat, lon]": [
+            41.867022999999996,
+            -87.62640400000001
+        ],
+        "Weather Location Lat": 41.867022999999996,
+        "Weather Location Lon": -87.62640400000001
+    },
+    "197": {
+        "Area [m2]": 1687.97,
+        "Total Annual Electricity [GJ]": 1095.88,
+        "Total Annual Gas [GJ]": 59.74,
+        "Building Location [lat, lon]": [
+            41.872966999999996,
+            -87.62759399999999
+        ],
+        "Weather Location Lat": 41.872966999999996,
+        "Weather Location Lon": -87.62759399999999
+    },
+    "2": {
+        "Area [m2]": 313.14,
+        "Total Annual Electricity [GJ]": 295.28,
+        "Total Annual Gas [GJ]": 43.49,
+        "Building Location [lat, lon]": [
+            41.867859,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.867859,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "20": {
+        "Area [m2]": 57765.85,
+        "Total Annual Electricity [GJ]": 17173.97,
+        "Total Annual Gas [GJ]": 15007.93,
+        "Building Location [lat, lon]": [
+            41.867878000000005,
+            -87.625244
+        ],
+        "Weather Location Lat": 41.867878000000005,
+        "Weather Location Lon": -87.625244
+    },
+    "204": {
+        "Area [m2]": 9716.95,
+        "Total Annual Electricity [GJ]": 3521.19,
+        "Total Annual Gas [GJ]": 594.28,
+        "Building Location [lat, lon]": [
+            41.872971,
+            -87.626465
+        ],
+        "Weather Location Lat": 41.872971,
+        "Weather Location Lon": -87.626465
+    },
+    "21": {
+        "Area [m2]": 754.83,
+        "Total Annual Electricity [GJ]": 603.45,
+        "Total Annual Gas [GJ]": 45.66,
+        "Building Location [lat, lon]": [
+            41.867859,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.867859,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "211": {
+        "Area [m2]": 213532.77,
+        "Total Annual Electricity [GJ]": 61986.23,
+        "Total Annual Gas [GJ]": 14745.31,
+        "Building Location [lat, lon]": [
+            41.872128000000004,
+            -87.62530500000001
+        ],
+        "Weather Location Lat": 41.872128000000004,
+        "Weather Location Lon": -87.62530500000001
+    },
+    "22": {
+        "Area [m2]": 754.84,
+        "Total Annual Electricity [GJ]": 588.2,
+        "Total Annual Gas [GJ]": 46.46,
+        "Building Location [lat, lon]": [
+            41.867863,
+            -87.628662
+        ],
+        "Weather Location Lat": 41.867863,
+        "Weather Location Lon": -87.628662
+    },
+    "220": {
+        "Area [m2]": 15853.6,
+        "Total Annual Electricity [GJ]": 6630.95,
+        "Total Annual Gas [GJ]": 733.44,
+        "Building Location [lat, lon]": [
+            41.872952000000005,
+            -87.62988299999999
+        ],
+        "Weather Location Lat": 41.872952000000005,
+        "Weather Location Lon": -87.62988299999999
+    },
+    "2248": {
+        "Area [m2]": 668.45,
+        "Total Annual Electricity [GJ]": 499.62,
+        "Total Annual Gas [GJ]": 46.94,
+        "Building Location [lat, lon]": [
+            41.875492,
+            -87.62988299999999
+        ],
+        "Weather Location Lat": 41.875492,
+        "Weather Location Lon": -87.62988299999999
+    },
+    "2251": {
+        "Area [m2]": 13851.12,
+        "Total Annual Electricity [GJ]": 6142.33,
+        "Total Annual Gas [GJ]": 3487.63,
+        "Building Location [lat, lon]": [
+            41.875515,
+            -87.626465
+        ],
+        "Weather Location Lat": 41.875515,
+        "Weather Location Lon": -87.626465
+    },
+    "23": {
+        "Area [m2]": 277.11,
+        "Total Annual Electricity [GJ]": 402.4,
+        "Total Annual Gas [GJ]": 40.41,
+        "Building Location [lat, lon]": [
+            41.86787,
+            -87.627533
+        ],
+        "Weather Location Lat": 41.86787,
+        "Weather Location Lon": -87.627533
+    },
+    "24": {
+        "Area [m2]": 754.84,
+        "Total Annual Electricity [GJ]": 588.58,
+        "Total Annual Gas [GJ]": 46.45,
+        "Building Location [lat, lon]": [
+            41.867859,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.867859,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "25": {
+        "Area [m2]": 754.85,
+        "Total Annual Electricity [GJ]": 591.25,
+        "Total Annual Gas [GJ]": 46.29,
+        "Building Location [lat, lon]": [
+            41.867863,
+            -87.628662
+        ],
+        "Weather Location Lat": 41.867863,
+        "Weather Location Lon": -87.628662
+    },
+    "257": {
+        "Area [m2]": 6776.35,
+        "Total Annual Electricity [GJ]": 2994.43,
+        "Total Annual Gas [GJ]": 305.63,
+        "Building Location [lat, lon]": [
+            41.872948,
+            -87.631012
+        ],
+        "Weather Location Lat": 41.872948,
+        "Weather Location Lon": -87.631012
+    },
+    "2726": {
+        "Area [m2]": 7364.05,
+        "Total Annual Electricity [GJ]": 2750.46,
+        "Total Annual Gas [GJ]": 439.47,
+        "Building Location [lat, lon]": [
+            41.875481,
+            -87.633301
+        ],
+        "Weather Location Lat": 41.875481,
+        "Weather Location Lon": -87.633301
+    },
+    "273": {
+        "Area [m2]": 4714.76,
+        "Total Annual Electricity [GJ]": 1741.6,
+        "Total Annual Gas [GJ]": 304.57,
+        "Building Location [lat, lon]": [
+            41.872971,
+            -87.626465
+        ],
+        "Weather Location Lat": 41.872971,
+        "Weather Location Lon": -87.626465
+    },
+    "2861": {
+        "Area [m2]": 14018.56,
+        "Total Annual Electricity [GJ]": 5004.31,
+        "Total Annual Gas [GJ]": 885.24,
+        "Building Location [lat, lon]": [
+            41.876305,
+            -87.636749
+        ],
+        "Weather Location Lat": 41.876305,
+        "Weather Location Lon": -87.636749
+    },
+    "2868": {
+        "Area [m2]": 2754.89,
+        "Total Annual Electricity [GJ]": 1330.04,
+        "Total Annual Gas [GJ]": 128.46,
+        "Building Location [lat, lon]": [
+            41.876369,
+            -87.62649499999999
+        ],
+        "Weather Location Lat": 41.876369,
+        "Weather Location Lon": -87.62649499999999
+    },
+    "29": {
+        "Area [m2]": 212.72,
+        "Total Annual Electricity [GJ]": 302.91,
+        "Total Annual Gas [GJ]": 40.6,
+        "Building Location [lat, lon]": [
+            41.867859,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.867859,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "30": {
+        "Area [m2]": 202.21,
+        "Total Annual Electricity [GJ]": 312.35,
+        "Total Annual Gas [GJ]": 40.47,
+        "Building Location [lat, lon]": [
+            41.867863,
+            -87.628662
+        ],
+        "Weather Location Lat": 41.867863,
+        "Weather Location Lon": -87.628662
+    },
+    "305": {
+        "Area [m2]": 23923.18,
+        "Total Annual Electricity [GJ]": 8720.5,
+        "Total Annual Gas [GJ]": 5800.97,
+        "Building Location [lat, lon]": [
+            41.872955,
+            -87.628723
+        ],
+        "Weather Location Lat": 41.872955,
+        "Weather Location Lon": -87.628723
+    },
+    "31": {
+        "Area [m2]": 321.52,
+        "Total Annual Electricity [GJ]": 397.96,
+        "Total Annual Gas [GJ]": 40.65,
+        "Building Location [lat, lon]": [
+            41.86787,
+            -87.627533
+        ],
+        "Weather Location Lat": 41.86787,
+        "Weather Location Lon": -87.627533
+    },
+    "32": {
+        "Area [m2]": 11525.83,
+        "Total Annual Electricity [GJ]": 4641.05,
+        "Total Annual Gas [GJ]": 582.74,
+        "Building Location [lat, lon]": [
+            41.867863,
+            -87.628662
+        ],
+        "Weather Location Lat": 41.867863,
+        "Weather Location Lon": -87.628662
+    },
+    "3225": {
+        "Area [m2]": 97337.06,
+        "Total Annual Electricity [GJ]": 27372.67,
+        "Total Annual Gas [GJ]": 23032.94,
+        "Building Location [lat, lon]": [
+            41.874598999999996,
+            -87.637878
+        ],
+        "Weather Location Lat": 41.874598999999996,
+        "Weather Location Lon": -87.637878
+    },
+    "323": {
+        "Area [m2]": 3632.11,
+        "Total Annual Electricity [GJ]": 1543.63,
+        "Total Annual Gas [GJ]": 195.35,
+        "Building Location [lat, lon]": [
+            41.873795,
+            -87.631012
+        ],
+        "Weather Location Lat": 41.873795,
+        "Weather Location Lon": -87.631012
+    },
+    "3283": {
+        "Area [m2]": 1638.39,
+        "Total Annual Electricity [GJ]": 860.44,
+        "Total Annual Gas [GJ]": 83.06,
+        "Building Location [lat, lon]": [
+            41.876328,
+            -87.63333100000001
+        ],
+        "Weather Location Lat": 41.876328,
+        "Weather Location Lon": -87.63333100000001
+    },
+    "3296": {
+        "Area [m2]": 40644.52,
+        "Total Annual Electricity [GJ]": 13954.09,
+        "Total Annual Gas [GJ]": 2576.64,
+        "Building Location [lat, lon]": [
+            41.875492,
+            -87.62988299999999
+        ],
+        "Weather Location Lat": 41.875492,
+        "Weather Location Lon": -87.62988299999999
+    },
+    "329702": {
+        "Area [m2]": 222535.19,
+        "Total Annual Electricity [GJ]": 57734.03,
+        "Total Annual Gas [GJ]": 41176.18,
+        "Building Location [lat, lon]": [
+            41.879771999999996,
+            -87.625366
+        ],
+        "Weather Location Lat": 41.879771999999996,
+        "Weather Location Lon": -87.625366
+    },
+    "33": {
+        "Area [m2]": 287.75,
+        "Total Annual Electricity [GJ]": 340.73,
+        "Total Annual Gas [GJ]": 41.05,
+        "Building Location [lat, lon]": [
+            41.86871,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.86871,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "3346": {
+        "Area [m2]": 96267.38,
+        "Total Annual Electricity [GJ]": 26649.74,
+        "Total Annual Gas [GJ]": 22378.91,
+        "Building Location [lat, lon]": [
+            41.87632,
+            -87.63446
+        ],
+        "Weather Location Lat": 41.87632,
+        "Weather Location Lon": -87.63446
+    },
+    "3353": {
+        "Area [m2]": 11330.45,
+        "Total Annual Electricity [GJ]": 5530.27,
+        "Total Annual Gas [GJ]": 2922.14,
+        "Building Location [lat, lon]": [
+            41.87632,
+            -87.63446
+        ],
+        "Weather Location Lat": 41.87632,
+        "Weather Location Lon": -87.63446
+    },
+    "3363": {
+        "Area [m2]": 9498.55,
+        "Total Annual Electricity [GJ]": 3706.41,
+        "Total Annual Gas [GJ]": 529.99,
+        "Building Location [lat, lon]": [
+            41.876328,
+            -87.63333100000001
+        ],
+        "Weather Location Lat": 41.876328,
+        "Weather Location Lon": -87.63333100000001
+    },
+    "3372": {
+        "Area [m2]": 48280.9,
+        "Total Annual Electricity [GJ]": 14711.37,
+        "Total Annual Gas [GJ]": 9809.86,
+        "Building Location [lat, lon]": [
+            41.875484,
+            -87.632172
+        ],
+        "Weather Location Lat": 41.875484,
+        "Weather Location Lon": -87.632172
+    },
+    "3375": {
+        "Area [m2]": 12591.04,
+        "Total Annual Electricity [GJ]": 4530.87,
+        "Total Annual Gas [GJ]": 761.92,
+        "Building Location [lat, lon]": [
+            41.876339,
+            -87.63104200000001
+        ],
+        "Weather Location Lat": 41.876339,
+        "Weather Location Lon": -87.63104200000001
+    },
+    "34": {
+        "Area [m2]": 287.76,
+        "Total Annual Electricity [GJ]": 334.14,
+        "Total Annual Gas [GJ]": 41.15,
+        "Building Location [lat, lon]": [
+            41.86871,
+            -87.628693
+        ],
+        "Weather Location Lat": 41.86871,
+        "Weather Location Lon": -87.628693
+    },
+    "3416": {
+        "Area [m2]": 43130.38,
+        "Total Annual Electricity [GJ]": 13583.47,
+        "Total Annual Gas [GJ]": 10301.16,
+        "Building Location [lat, lon]": [
+            41.875496000000005,
+            -87.628754
+        ],
+        "Weather Location Lat": 41.875496000000005,
+        "Weather Location Lon": -87.628754
+    },
+    "3421": {
+        "Area [m2]": 121960.34,
+        "Total Annual Electricity [GJ]": 32669.8,
+        "Total Annual Gas [GJ]": 20564.43,
+        "Building Location [lat, lon]": [
+            41.875496000000005,
+            -87.628754
+        ],
+        "Weather Location Lat": 41.875496000000005,
+        "Weather Location Lon": -87.628754
+    },
+    "3476": {
+        "Area [m2]": 75573.74,
+        "Total Annual Electricity [GJ]": 21351.15,
+        "Total Annual Gas [GJ]": 13661.65,
+        "Building Location [lat, lon]": [
+            41.875507,
+            -87.627625
+        ],
+        "Weather Location Lat": 41.875507,
+        "Weather Location Lon": -87.627625
+    },
+    "35": {
+        "Area [m2]": 777.71,
+        "Total Annual Electricity [GJ]": 612.19,
+        "Total Annual Gas [GJ]": 46.2,
+        "Building Location [lat, lon]": [
+            41.86871,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.86871,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "3518": {
+        "Area [m2]": 184934.75,
+        "Total Annual Electricity [GJ]": 48064.5,
+        "Total Annual Gas [GJ]": 31439.04,
+        "Building Location [lat, lon]": [
+            41.875526,
+            -87.625336
+        ],
+        "Weather Location Lat": 41.875526,
+        "Weather Location Lon": -87.625336
+    },
+    "3553": {
+        "Area [m2]": 312.69,
+        "Total Annual Electricity [GJ]": 603.34,
+        "Total Annual Gas [GJ]": 40.38,
+        "Building Location [lat, lon]": [
+            41.877209,
+            -87.62649499999999
+        ],
+        "Weather Location Lat": 41.877209,
+        "Weather Location Lon": -87.62649499999999
+    },
+    "36": {
+        "Area [m2]": 777.71,
+        "Total Annual Electricity [GJ]": 588.23,
+        "Total Annual Gas [GJ]": 47.67,
+        "Building Location [lat, lon]": [
+            41.86871,
+            -87.628693
+        ],
+        "Weather Location Lat": 41.86871,
+        "Weather Location Lon": -87.628693
+    },
+    "3684": {
+        "Area [m2]": 1246.94,
+        "Total Annual Electricity [GJ]": 1038.93,
+        "Total Annual Gas [GJ]": 44.59,
+        "Building Location [lat, lon]": [
+            41.877186,
+            -87.632202
+        ],
+        "Weather Location Lat": 41.877186,
+        "Weather Location Lon": -87.632202
+    },
+    "37": {
+        "Area [m2]": 12836.72,
+        "Total Annual Electricity [GJ]": 4826.63,
+        "Total Annual Gas [GJ]": 734.65,
+        "Building Location [lat, lon]": [
+            41.86787,
+            -87.62640400000001
+        ],
+        "Weather Location Lat": 41.86787,
+        "Weather Location Lon": -87.62640400000001
+    },
+    "3713": {
+        "Area [m2]": 6121.09,
+        "Total Annual Electricity [GJ]": 2957.76,
+        "Total Annual Gas [GJ]": 243.4,
+        "Building Location [lat, lon]": [
+            41.877193,
+            -87.628784
+        ],
+        "Weather Location Lat": 41.877193,
+        "Weather Location Lon": -87.628784
+    },
+    "3718": {
+        "Area [m2]": 411.92,
+        "Total Annual Electricity [GJ]": 505.2,
+        "Total Annual Gas [GJ]": 40.82,
+        "Building Location [lat, lon]": [
+            41.877209,
+            -87.62649499999999
+        ],
+        "Weather Location Lat": 41.877209,
+        "Weather Location Lon": -87.62649499999999
+    },
+    "38": {
+        "Area [m2]": 426.33,
+        "Total Annual Electricity [GJ]": 485.86,
+        "Total Annual Gas [GJ]": 41.07,
+        "Building Location [lat, lon]": [
+            41.86871,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.86871,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "39": {
+        "Area [m2]": 426.34,
+        "Total Annual Electricity [GJ]": 481.88,
+        "Total Annual Gas [GJ]": 41.1,
+        "Building Location [lat, lon]": [
+            41.86871,
+            -87.628693
+        ],
+        "Weather Location Lat": 41.86871,
+        "Weather Location Lon": -87.628693
+    },
+    "3932": {
+        "Area [m2]": 19327.27,
+        "Total Annual Electricity [GJ]": 7550.53,
+        "Total Annual Gas [GJ]": 5369.05,
+        "Building Location [lat, lon]": [
+            41.877167,
+            -87.63446
+        ],
+        "Weather Location Lat": 41.877167,
+        "Weather Location Lon": -87.63446
+    },
+    "4": {
+        "Area [m2]": 251.16,
+        "Total Annual Electricity [GJ]": 303.2,
+        "Total Annual Gas [GJ]": 41.07,
+        "Building Location [lat, lon]": [
+            41.867859,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.867859,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "41": {
+        "Area [m2]": 11190.57,
+        "Total Annual Electricity [GJ]": 5505.99,
+        "Total Annual Gas [GJ]": 2955.24,
+        "Building Location [lat, lon]": [
+            41.868675,
+            -87.635529
+        ],
+        "Weather Location Lat": 41.868675,
+        "Weather Location Lon": -87.635529
+    },
+    "419": {
+        "Area [m2]": 59710.8,
+        "Total Annual Electricity [GJ]": 17567.75,
+        "Total Annual Gas [GJ]": 11747.37,
+        "Building Location [lat, lon]": [
+            41.872105,
+            -87.628723
+        ],
+        "Weather Location Lat": 41.872105,
+        "Weather Location Lon": -87.628723
+    },
+    "45": {
+        "Area [m2]": 309.11,
+        "Total Annual Electricity [GJ]": 385.88,
+        "Total Annual Gas [GJ]": 40.64,
+        "Building Location [lat, lon]": [
+            41.868717,
+            -87.627563
+        ],
+        "Weather Location Lat": 41.868717,
+        "Weather Location Lon": -87.627563
+    },
+    "46": {
+        "Area [m2]": 51734.1,
+        "Total Annual Electricity [GJ]": 15516.08,
+        "Total Annual Gas [GJ]": 3702.54,
+        "Building Location [lat, lon]": [
+            41.867851,
+            -87.630951
+        ],
+        "Weather Location Lat": 41.867851,
+        "Weather Location Lon": -87.630951
+    },
+    "48": {
+        "Area [m2]": 269.96,
+        "Total Annual Electricity [GJ]": 394.47,
+        "Total Annual Gas [GJ]": 40.41,
+        "Building Location [lat, lon]": [
+            41.868717,
+            -87.627563
+        ],
+        "Weather Location Lat": 41.868717,
+        "Weather Location Lon": -87.627563
+    },
+    "49": {
+        "Area [m2]": 11572.7,
+        "Total Annual Electricity [GJ]": 4633.73,
+        "Total Annual Gas [GJ]": 592.42,
+        "Building Location [lat, lon]": [
+            41.86871,
+            -87.628693
+        ],
+        "Weather Location Lat": 41.86871,
+        "Weather Location Lon": -87.628693
+    },
+    "4958": {
+        "Area [m2]": 186219.86,
+        "Total Annual Electricity [GJ]": 48912.15,
+        "Total Annual Gas [GJ]": 40518.3,
+        "Building Location [lat, lon]": [
+            41.877151,
+            -87.636749
+        ],
+        "Weather Location Lat": 41.877151,
+        "Weather Location Lon": -87.636749
+    },
+    "5": {
+        "Area [m2]": 288.21,
+        "Total Annual Electricity [GJ]": 330.35,
+        "Total Annual Gas [GJ]": 41.22,
+        "Building Location [lat, lon]": [
+            41.867863,
+            -87.628662
+        ],
+        "Weather Location Lat": 41.867863,
+        "Weather Location Lon": -87.628662
+    },
+    "50": {
+        "Area [m2]": 223.63,
+        "Total Annual Electricity [GJ]": 326.01,
+        "Total Annual Gas [GJ]": 40.44,
+        "Building Location [lat, lon]": [
+            41.868671,
+            -87.636658
+        ],
+        "Weather Location Lat": 41.868671,
+        "Weather Location Lon": -87.636658
+    },
+    "5099": {
+        "Area [m2]": 88732.3,
+        "Total Annual Electricity [GJ]": 24654.49,
+        "Total Annual Gas [GJ]": 16486.03,
+        "Building Location [lat, lon]": [
+            41.877205,
+            -87.627625
+        ],
+        "Weather Location Lat": 41.877205,
+        "Weather Location Lon": -87.627625
+    },
+    "51": {
+        "Area [m2]": 4257.49,
+        "Total Annual Electricity [GJ]": 2088.66,
+        "Total Annual Gas [GJ]": 166.36,
+        "Building Location [lat, lon]": [
+            41.86871,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.86871,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "5100": {
+        "Area [m2]": 56739.87,
+        "Total Annual Electricity [GJ]": 17063.91,
+        "Total Annual Gas [GJ]": 14469.34,
+        "Building Location [lat, lon]": [
+            41.877151,
+            -87.636749
+        ],
+        "Weather Location Lat": 41.877151,
+        "Weather Location Lon": -87.636749
+    },
+    "5108": {
+        "Area [m2]": 23463.31,
+        "Total Annual Electricity [GJ]": 8564.06,
+        "Total Annual Gas [GJ]": 5717.44,
+        "Building Location [lat, lon]": [
+            41.878009999999996,
+            -87.634491
+        ],
+        "Weather Location Lat": 41.878009999999996,
+        "Weather Location Lon": -87.634491
+    },
+    "5113": {
+        "Area [m2]": 87173.04,
+        "Total Annual Electricity [GJ]": 24230.88,
+        "Total Annual Gas [GJ]": 17449.46,
+        "Building Location [lat, lon]": [
+            41.877167,
+            -87.63446
+        ],
+        "Weather Location Lat": 41.877167,
+        "Weather Location Lon": -87.63446
+    },
+    "5114": {
+        "Area [m2]": 226759.69,
+        "Total Annual Electricity [GJ]": 58482.04,
+        "Total Annual Gas [GJ]": 38376.07,
+        "Building Location [lat, lon]": [
+            41.877178,
+            -87.63333100000001
+        ],
+        "Weather Location Lat": 41.877178,
+        "Weather Location Lon": -87.63333100000001
+    },
+    "5133": {
+        "Area [m2]": 538351.89,
+        "Total Annual Electricity [GJ]": 137147.96,
+        "Total Annual Gas [GJ]": 133218.11,
+        "Building Location [lat, lon]": [
+            41.87294,
+            -87.632141
+        ],
+        "Weather Location Lat": 41.87294,
+        "Weather Location Lon": -87.632141
+    },
+    "5152": {
+        "Area [m2]": 90138.58,
+        "Total Annual Electricity [GJ]": 25212.22,
+        "Total Annual Gas [GJ]": 18729.67,
+        "Building Location [lat, lon]": [
+            41.877186,
+            -87.63104200000001
+        ],
+        "Weather Location Lat": 41.877186,
+        "Weather Location Lon": -87.63104200000001
+    },
+    "5153": {
+        "Area [m2]": 54238.02,
+        "Total Annual Electricity [GJ]": 16452.87,
+        "Total Annual Gas [GJ]": 13607.59,
+        "Building Location [lat, lon]": [
+            41.87719,
+            -87.629913
+        ],
+        "Weather Location Lat": 41.87719,
+        "Weather Location Lon": -87.629913
+    },
+    "5160": {
+        "Area [m2]": 64306.58,
+        "Total Annual Electricity [GJ]": 18731.22,
+        "Total Annual Gas [GJ]": 13109.06,
+        "Building Location [lat, lon]": [
+            41.87719,
+            -87.629913
+        ],
+        "Weather Location Lat": 41.87719,
+        "Weather Location Lon": -87.629913
+    },
+    "5172": {
+        "Area [m2]": 68877.34,
+        "Total Annual Electricity [GJ]": 19804.87,
+        "Total Annual Gas [GJ]": 15653.15,
+        "Building Location [lat, lon]": [
+            41.878029,
+            -87.632202
+        ],
+        "Weather Location Lat": 41.878029,
+        "Weather Location Lon": -87.632202
+    },
+    "5178": {
+        "Area [m2]": 46214.38,
+        "Total Annual Electricity [GJ]": 14177.45,
+        "Total Annual Gas [GJ]": 10397.27,
+        "Building Location [lat, lon]": [
+            41.877193,
+            -87.628784
+        ],
+        "Weather Location Lat": 41.877193,
+        "Weather Location Lon": -87.628784
+    },
+    "5187": {
+        "Area [m2]": 49671.04,
+        "Total Annual Electricity [GJ]": 15228.01,
+        "Total Annual Gas [GJ]": 11589.63,
+        "Building Location [lat, lon]": [
+            41.877193,
+            -87.628784
+        ],
+        "Weather Location Lat": 41.877193,
+        "Weather Location Lon": -87.628784
+    },
+    "52": {
+        "Area [m2]": 65038.67,
+        "Total Annual Electricity [GJ]": 18783.02,
+        "Total Annual Gas [GJ]": 11597.79,
+        "Building Location [lat, lon]": [
+            41.86787,
+            -87.627533
+        ],
+        "Weather Location Lat": 41.86787,
+        "Weather Location Lon": -87.627533
+    },
+    "5277": {
+        "Area [m2]": 40999.55,
+        "Total Annual Electricity [GJ]": 12851.23,
+        "Total Annual Gas [GJ]": 8986.05,
+        "Building Location [lat, lon]": [
+            41.878067,
+            -87.62649499999999
+        ],
+        "Weather Location Lat": 41.878067,
+        "Weather Location Lon": -87.62649499999999
+    },
+    "53": {
+        "Area [m2]": 4424.07,
+        "Total Annual Electricity [GJ]": 2139.19,
+        "Total Annual Gas [GJ]": 177.56,
+        "Building Location [lat, lon]": [
+            41.86871,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.86871,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "5347": {
+        "Area [m2]": 398666.41,
+        "Total Annual Electricity [GJ]": 100716.17,
+        "Total Annual Gas [GJ]": 72631.96,
+        "Building Location [lat, lon]": [
+            41.877224,
+            -87.625366
+        ],
+        "Weather Location Lat": 41.877224,
+        "Weather Location Lon": -87.625366
+    },
+    "55": {
+        "Area [m2]": 35773.8,
+        "Total Annual Electricity [GJ]": 11515.77,
+        "Total Annual Gas [GJ]": 6896.51,
+        "Building Location [lat, lon]": [
+            41.868725,
+            -87.62640400000001
+        ],
+        "Weather Location Lat": 41.868725,
+        "Weather Location Lon": -87.62640400000001
+    },
+    "56": {
+        "Area [m2]": 150984.79,
+        "Total Annual Electricity [GJ]": 39872.46,
+        "Total Annual Gas [GJ]": 27661.33,
+        "Building Location [lat, lon]": [
+            41.867878000000005,
+            -87.625244
+        ],
+        "Weather Location Lat": 41.867878000000005,
+        "Weather Location Lon": -87.625244
+    },
+    "57": {
+        "Area [m2]": 164.32,
+        "Total Annual Electricity [GJ]": 245.9,
+        "Total Annual Gas [GJ]": 40.57,
+        "Building Location [lat, lon]": [
+            41.869514,
+            -87.636688
+        ],
+        "Weather Location Lat": 41.869514,
+        "Weather Location Lon": -87.636688
+    },
+    "5845": {
+        "Area [m2]": 2680.74,
+        "Total Annual Electricity [GJ]": 1291.33,
+        "Total Annual Gas [GJ]": 126.29,
+        "Building Location [lat, lon]": [
+            41.878006,
+            -87.63561999999999
+        ],
+        "Weather Location Lat": 41.878006,
+        "Weather Location Lon": -87.63561999999999
+    },
+    "59": {
+        "Area [m2]": 261.21,
+        "Total Annual Electricity [GJ]": 303.33,
+        "Total Annual Gas [GJ]": 41.15,
+        "Building Location [lat, lon]": [
+            41.86953,
+            -87.63324
+        ],
+        "Weather Location Lat": 41.86953,
+        "Weather Location Lon": -87.63324
+    },
+    "5914": {
+        "Area [m2]": 134.91,
+        "Total Annual Electricity [GJ]": 203.98,
+        "Total Annual Gas [GJ]": 40.84,
+        "Building Location [lat, lon]": [
+            41.878853,
+            -87.63678
+        ],
+        "Weather Location Lat": 41.878853,
+        "Weather Location Lon": -87.63678
+    },
+    "599": {
+        "Area [m2]": 9866.64,
+        "Total Annual Electricity [GJ]": 3909.76,
+        "Total Annual Gas [GJ]": 526.65,
+        "Building Location [lat, lon]": [
+            41.873814,
+            -87.626465
+        ],
+        "Weather Location Lat": 41.873814,
+        "Weather Location Lon": -87.626465
+    },
+    "603": {
+        "Area [m2]": 177629.75,
+        "Total Annual Electricity [GJ]": 46284.93,
+        "Total Annual Gas [GJ]": 31190.12,
+        "Building Location [lat, lon]": [
+            41.872982,
+            -87.62530500000001
+        ],
+        "Weather Location Lat": 41.872982,
+        "Weather Location Lon": -87.62530500000001
+    },
+    "6077": {
+        "Area [m2]": 119099.21,
+        "Total Annual Electricity [GJ]": 32259.61,
+        "Total Annual Gas [GJ]": 25899.21,
+        "Building Location [lat, lon]": [
+            41.878044,
+            -87.629913
+        ],
+        "Weather Location Lat": 41.878044,
+        "Weather Location Lon": -87.629913
+    },
+    "61": {
+        "Area [m2]": 3319.28,
+        "Total Annual Electricity [GJ]": 1524.64,
+        "Total Annual Gas [GJ]": 156.9,
+        "Building Location [lat, lon]": [
+            41.868671,
+            -87.636658
+        ],
+        "Weather Location Lat": 41.868671,
+        "Weather Location Lon": -87.636658
+    },
+    "620": {
+        "Area [m2]": 414615.57,
+        "Total Annual Electricity [GJ]": 103689.22,
+        "Total Annual Gas [GJ]": 62617.72,
+        "Building Location [lat, lon]": [
+            41.872046999999995,
+            -87.638977
+        ],
+        "Weather Location Lat": 41.872046999999995,
+        "Weather Location Lon": -87.638977
+    },
+    "6213": {
+        "Area [m2]": 33456.85,
+        "Total Annual Electricity [GJ]": 11026.66,
+        "Total Annual Gas [GJ]": 7740.99,
+        "Building Location [lat, lon]": [
+            41.877995,
+            -87.637909
+        ],
+        "Weather Location Lat": 41.877995,
+        "Weather Location Lon": -87.637909
+    },
+    "6229": {
+        "Area [m2]": 109508.18,
+        "Total Annual Electricity [GJ]": 29632.88,
+        "Total Annual Gas [GJ]": 20143.04,
+        "Building Location [lat, lon]": [
+            41.878009999999996,
+            -87.634491
+        ],
+        "Weather Location Lat": 41.878009999999996,
+        "Weather Location Lon": -87.634491
+    },
+    "6281": {
+        "Area [m2]": 20591.53,
+        "Total Annual Electricity [GJ]": 7128.7,
+        "Total Annual Gas [GJ]": 1317.14,
+        "Building Location [lat, lon]": [
+            41.878052000000004,
+            -87.628784
+        ],
+        "Weather Location Lat": 41.878052000000004,
+        "Weather Location Lon": -87.628784
+    },
+    "6291": {
+        "Area [m2]": 140929.95,
+        "Total Annual Electricity [GJ]": 37385.98,
+        "Total Annual Gas [GJ]": 25842.96,
+        "Building Location [lat, lon]": [
+            41.878029,
+            -87.632202
+        ],
+        "Weather Location Lat": 41.878029,
+        "Weather Location Lon": -87.632202
+    },
+    "6343": {
+        "Area [m2]": 120810.32,
+        "Total Annual Electricity [GJ]": 32455.17,
+        "Total Annual Gas [GJ]": 22723.26,
+        "Building Location [lat, lon]": [
+            41.878021000000004,
+            -87.633362
+        ],
+        "Weather Location Lat": 41.878021000000004,
+        "Weather Location Lon": -87.633362
+    },
+    "64": {
+        "Area [m2]": 163.43,
+        "Total Annual Electricity [GJ]": 265.75,
+        "Total Annual Gas [GJ]": 40.45,
+        "Building Location [lat, lon]": [
+            41.869514,
+            -87.636688
+        ],
+        "Weather Location Lat": 41.869514,
+        "Weather Location Lon": -87.636688
+    },
+    "643": {
+        "Area [m2]": 181.54,
+        "Total Annual Electricity [GJ]": 360.92,
+        "Total Annual Gas [GJ]": 40.31,
+        "Building Location [lat, lon]": [
+            41.874607,
+            -87.636719
+        ],
+        "Weather Location Lat": 41.874607,
+        "Weather Location Lon": -87.636719
+    },
+    "655": {
+        "Area [m2]": 119167.37,
+        "Total Annual Electricity [GJ]": 32419.16,
+        "Total Annual Gas [GJ]": 23308.77,
+        "Building Location [lat, lon]": [
+            41.872925,
+            -87.633301
+        ],
+        "Weather Location Lat": 41.872925,
+        "Weather Location Lon": -87.633301
+    },
+    "656": {
+        "Area [m2]": 19623.22,
+        "Total Annual Electricity [GJ]": 7602.64,
+        "Total Annual Gas [GJ]": 4519.49,
+        "Building Location [lat, lon]": [
+            41.873775,
+            -87.633301
+        ],
+        "Weather Location Lat": 41.873775,
+        "Weather Location Lon": -87.633301
+    },
+    "657": {
+        "Area [m2]": 1561.25,
+        "Total Annual Electricity [GJ]": 808.31,
+        "Total Annual Gas [GJ]": 84.56,
+        "Building Location [lat, lon]": [
+            41.873795,
+            -87.631012
+        ],
+        "Weather Location Lat": 41.873795,
+        "Weather Location Lon": -87.631012
+    },
+    "661": {
+        "Area [m2]": 23262.74,
+        "Total Annual Electricity [GJ]": 8514.32,
+        "Total Annual Gas [GJ]": 5026.35,
+        "Building Location [lat, lon]": [
+            41.873795,
+            -87.631012
+        ],
+        "Weather Location Lat": 41.873795,
+        "Weather Location Lon": -87.631012
+    },
+    "665": {
+        "Area [m2]": 100071.74,
+        "Total Annual Electricity [GJ]": 27652.57,
+        "Total Annual Gas [GJ]": 19434.84,
+        "Building Location [lat, lon]": [
+            41.872093,
+            -87.631012
+        ],
+        "Weather Location Lat": 41.872093,
+        "Weather Location Lon": -87.631012
+    },
+    "668": {
+        "Area [m2]": 71988.57,
+        "Total Annual Electricity [GJ]": 20650.87,
+        "Total Annual Gas [GJ]": 14411.71,
+        "Building Location [lat, lon]": [
+            41.872101,
+            -87.629852
+        ],
+        "Weather Location Lat": 41.872101,
+        "Weather Location Lon": -87.629852
+    },
+    "671": {
+        "Area [m2]": 46857.05,
+        "Total Annual Electricity [GJ]": 14580.39,
+        "Total Annual Gas [GJ]": 11854.28,
+        "Building Location [lat, lon]": [
+            41.873798,
+            -87.62988299999999
+        ],
+        "Weather Location Lat": 41.873798,
+        "Weather Location Lon": -87.62988299999999
+    },
+    "675": {
+        "Area [m2]": 19644.48,
+        "Total Annual Electricity [GJ]": 7799.9,
+        "Total Annual Gas [GJ]": 1014.7,
+        "Building Location [lat, lon]": [
+            41.873798,
+            -87.628723
+        ],
+        "Weather Location Lat": 41.873798,
+        "Weather Location Lon": -87.628723
+    },
+    "68": {
+        "Area [m2]": 6803.81,
+        "Total Annual Electricity [GJ]": 2715.94,
+        "Total Annual Gas [GJ]": 369.34,
+        "Building Location [lat, lon]": [
+            41.869568,
+            -87.627563
+        ],
+        "Weather Location Lat": 41.869568,
+        "Weather Location Lon": -87.627563
+    },
+    "6823": {
+        "Area [m2]": 1744.27,
+        "Total Annual Electricity [GJ]": 1369.26,
+        "Total Annual Gas [GJ]": 45.05,
+        "Building Location [lat, lon]": [
+            41.878871999999994,
+            -87.633362
+        ],
+        "Weather Location Lat": 41.878871999999994,
+        "Weather Location Lon": -87.633362
+    },
+    "6854": {
+        "Area [m2]": 1370.27,
+        "Total Annual Electricity [GJ]": 1304.96,
+        "Total Annual Gas [GJ]": 41.61,
+        "Building Location [lat, lon]": [
+            41.878871999999994,
+            -87.633362
+        ],
+        "Weather Location Lat": 41.878871999999994,
+        "Weather Location Lon": -87.633362
+    },
+    "6855": {
+        "Area [m2]": 579.31,
+        "Total Annual Electricity [GJ]": 613.27,
+        "Total Annual Gas [GJ]": 41.49,
+        "Building Location [lat, lon]": [
+            41.878899,
+            -87.628784
+        ],
+        "Weather Location Lat": 41.878899,
+        "Weather Location Lon": -87.628784
+    },
+    "70": {
+        "Area [m2]": 85153.09,
+        "Total Annual Electricity [GJ]": 25945.07,
+        "Total Annual Gas [GJ]": 5952.32,
+        "Building Location [lat, lon]": [
+            41.867798,
+            -87.638947
+        ],
+        "Weather Location Lat": 41.867798,
+        "Weather Location Lon": -87.638947
+    },
+    "7043": {
+        "Area [m2]": 344360.91,
+        "Total Annual Electricity [GJ]": 87481.01,
+        "Total Annual Gas [GJ]": 64208.56,
+        "Building Location [lat, lon]": [
+            41.878853,
+            -87.63678
+        ],
+        "Weather Location Lat": 41.878853,
+        "Weather Location Lon": -87.63678
+    },
+    "71": {
+        "Area [m2]": 10589.69,
+        "Total Annual Electricity [GJ]": 5333.73,
+        "Total Annual Gas [GJ]": 2621.66,
+        "Building Location [lat, lon]": [
+            41.869578999999995,
+            -87.625275
+        ],
+        "Weather Location Lat": 41.869578999999995,
+        "Weather Location Lon": -87.625275
+    },
+    "7192": {
+        "Area [m2]": 86599.51,
+        "Total Annual Electricity [GJ]": 24242.25,
+        "Total Annual Gas [GJ]": 18783.44,
+        "Building Location [lat, lon]": [
+            41.878845,
+            -87.637909
+        ],
+        "Weather Location Lat": 41.878845,
+        "Weather Location Lon": -87.637909
+    },
+    "7196": {
+        "Area [m2]": 28315.08,
+        "Total Annual Electricity [GJ]": 8789.94,
+        "Total Annual Gas [GJ]": 2056.32,
+        "Building Location [lat, lon]": [
+            41.878857,
+            -87.63561999999999
+        ],
+        "Weather Location Lat": 41.878857,
+        "Weather Location Lon": -87.63561999999999
+    },
+    "72": {
+        "Area [m2]": 370.72,
+        "Total Annual Electricity [GJ]": 433.96,
+        "Total Annual Gas [GJ]": 40.8,
+        "Building Location [lat, lon]": [
+            41.869568,
+            -87.627563
+        ],
+        "Weather Location Lat": 41.869568,
+        "Weather Location Lon": -87.627563
+    },
+    "7200": {
+        "Area [m2]": 138949.92,
+        "Total Annual Electricity [GJ]": 37245.75,
+        "Total Annual Gas [GJ]": 27487.6,
+        "Building Location [lat, lon]": [
+            41.878052000000004,
+            -87.628784
+        ],
+        "Weather Location Lat": 41.878052000000004,
+        "Weather Location Lon": -87.628784
+    },
+    "7236": {
+        "Area [m2]": 60296.52,
+        "Total Annual Electricity [GJ]": 17713.06,
+        "Total Annual Gas [GJ]": 13230.72,
+        "Building Location [lat, lon]": [
+            41.878895,
+            -87.631073
+        ],
+        "Weather Location Lat": 41.878895,
+        "Weather Location Lon": -87.631073
+    },
+    "7239": {
+        "Area [m2]": 45468.04,
+        "Total Annual Electricity [GJ]": 13925.85,
+        "Total Annual Gas [GJ]": 9132.87,
+        "Building Location [lat, lon]": [
+            41.878883,
+            -87.632202
+        ],
+        "Weather Location Lat": 41.878883,
+        "Weather Location Lon": -87.632202
+    },
+    "7240": {
+        "Area [m2]": 14235.17,
+        "Total Annual Electricity [GJ]": 4733.77,
+        "Total Annual Gas [GJ]": 967.4,
+        "Building Location [lat, lon]": [
+            41.878895,
+            -87.631073
+        ],
+        "Weather Location Lat": 41.878895,
+        "Weather Location Lon": -87.631073
+    },
+    "7254": {
+        "Area [m2]": 39508.94,
+        "Total Annual Electricity [GJ]": 12503.16,
+        "Total Annual Gas [GJ]": 9496.0,
+        "Building Location [lat, lon]": [
+            41.878899,
+            -87.628784
+        ],
+        "Weather Location Lat": 41.878899,
+        "Weather Location Lon": -87.628784
+    },
+    "7297": {
+        "Area [m2]": 82099.27,
+        "Total Annual Electricity [GJ]": 23013.01,
+        "Total Annual Gas [GJ]": 15485.86,
+        "Building Location [lat, lon]": [
+            41.878056,
+            -87.627625
+        ],
+        "Weather Location Lat": 41.878056,
+        "Weather Location Lon": -87.627625
+    },
+    "7319": {
+        "Area [m2]": 83361.25,
+        "Total Annual Electricity [GJ]": 23317.08,
+        "Total Annual Gas [GJ]": 16723.05,
+        "Building Location [lat, lon]": [
+            41.878067,
+            -87.62649499999999
+        ],
+        "Weather Location Lat": 41.878067,
+        "Weather Location Lon": -87.62649499999999
+    },
+    "7336": {
+        "Area [m2]": 171187.34,
+        "Total Annual Electricity [GJ]": 44880.81,
+        "Total Annual Gas [GJ]": 33172.81,
+        "Building Location [lat, lon]": [
+            41.878067,
+            -87.625366
+        ],
+        "Weather Location Lat": 41.878067,
+        "Weather Location Lon": -87.625366
+    },
+    "74": {
+        "Area [m2]": 14361.41,
+        "Total Annual Electricity [GJ]": 6272.16,
+        "Total Annual Gas [GJ]": 3262.64,
+        "Building Location [lat, lon]": [
+            41.869578999999995,
+            -87.625275
+        ],
+        "Weather Location Lat": 41.869578999999995,
+        "Weather Location Lon": -87.625275
+    },
+    "75": {
+        "Area [m2]": 4766.52,
+        "Total Annual Electricity [GJ]": 2283.74,
+        "Total Annual Gas [GJ]": 192.69,
+        "Building Location [lat, lon]": [
+            41.86956,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.86956,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "76": {
+        "Area [m2]": 4209.18,
+        "Total Annual Electricity [GJ]": 2015.99,
+        "Total Annual Gas [GJ]": 171.83,
+        "Building Location [lat, lon]": [
+            41.86956,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.86956,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "77": {
+        "Area [m2]": 386.18,
+        "Total Annual Electricity [GJ]": 442.89,
+        "Total Annual Gas [GJ]": 40.86,
+        "Building Location [lat, lon]": [
+            41.869568,
+            -87.627563
+        ],
+        "Weather Location Lat": 41.869568,
+        "Weather Location Lon": -87.627563
+    },
+    "78": {
+        "Area [m2]": 11964.42,
+        "Total Annual Electricity [GJ]": 4764.53,
+        "Total Annual Gas [GJ]": 618.85,
+        "Building Location [lat, lon]": [
+            41.869564000000004,
+            -87.628693
+        ],
+        "Weather Location Lat": 41.869564000000004,
+        "Weather Location Lon": -87.628693
+    },
+    "79": {
+        "Area [m2]": 148735.55,
+        "Total Annual Electricity [GJ]": 47843.54,
+        "Total Annual Gas [GJ]": 8988.19,
+        "Building Location [lat, lon]": [
+            41.867832,
+            -87.63324
+        ],
+        "Weather Location Lat": 41.867832,
+        "Weather Location Lon": -87.63324
+    },
+    "8063": {
+        "Area [m2]": 52113.85,
+        "Total Annual Electricity [GJ]": 15690.42,
+        "Total Annual Gas [GJ]": 12065.0,
+        "Building Location [lat, lon]": [
+            41.879684000000005,
+            -87.637939
+        ],
+        "Weather Location Lat": 41.879684000000005,
+        "Weather Location Lon": -87.637939
+    },
+    "8117": {
+        "Area [m2]": 24590.49,
+        "Total Annual Electricity [GJ]": 8817.21,
+        "Total Annual Gas [GJ]": 5585.34,
+        "Building Location [lat, lon]": [
+            41.879761,
+            -87.626526
+        ],
+        "Weather Location Lat": 41.879761,
+        "Weather Location Lon": -87.626526
+    },
+    "82": {
+        "Area [m2]": 13307.54,
+        "Total Annual Electricity [GJ]": 6025.74,
+        "Total Annual Gas [GJ]": 3918.06,
+        "Building Location [lat, lon]": [
+            41.870407,
+            -87.628723
+        ],
+        "Weather Location Lat": 41.870407,
+        "Weather Location Lon": -87.628723
+    },
+    "8330": {
+        "Area [m2]": 54489.63,
+        "Total Annual Electricity [GJ]": 16149.75,
+        "Total Annual Gas [GJ]": 10865.43,
+        "Building Location [lat, lon]": [
+            41.879704,
+            -87.635651
+        ],
+        "Weather Location Lat": 41.879704,
+        "Weather Location Lon": -87.635651
+    },
+    "8340": {
+        "Area [m2]": 2521.97,
+        "Total Annual Electricity [GJ]": 2207.48,
+        "Total Annual Gas [GJ]": 44.67,
+        "Building Location [lat, lon]": [
+            41.878914,
+            -87.626526
+        ],
+        "Weather Location Lat": 41.878914,
+        "Weather Location Lon": -87.626526
+    },
+    "8398": {
+        "Area [m2]": 38841.21,
+        "Total Annual Electricity [GJ]": 12264.66,
+        "Total Annual Gas [GJ]": 7586.01,
+        "Building Location [lat, lon]": [
+            41.879719,
+            -87.633362
+        ],
+        "Weather Location Lat": 41.879719,
+        "Weather Location Lon": -87.633362
+    },
+    "84": {
+        "Area [m2]": 3563.75,
+        "Total Annual Electricity [GJ]": 1406.28,
+        "Total Annual Gas [GJ]": 212.1,
+        "Building Location [lat, lon]": [
+            41.869568,
+            -87.627563
+        ],
+        "Weather Location Lat": 41.869568,
+        "Weather Location Lon": -87.627563
+    },
+    "8402": {
+        "Area [m2]": 114271.93,
+        "Total Annual Electricity [GJ]": 31227.26,
+        "Total Annual Gas [GJ]": 25246.74,
+        "Building Location [lat, lon]": [
+            41.879719,
+            -87.633362
+        ],
+        "Weather Location Lat": 41.879719,
+        "Weather Location Lon": -87.633362
+    },
+    "8403": {
+        "Area [m2]": 72397.38,
+        "Total Annual Electricity [GJ]": 20834.19,
+        "Total Annual Gas [GJ]": 17023.34,
+        "Building Location [lat, lon]": [
+            41.8797,
+            -87.63678
+        ],
+        "Weather Location Lat": 41.8797,
+        "Weather Location Lon": -87.63678
+    },
+    "8440": {
+        "Area [m2]": 179723.14,
+        "Total Annual Electricity [GJ]": 46899.25,
+        "Total Annual Gas [GJ]": 32192.35,
+        "Building Location [lat, lon]": [
+            41.879723,
+            -87.632202
+        ],
+        "Weather Location Lat": 41.879723,
+        "Weather Location Lon": -87.632202
+    },
+    "8472": {
+        "Area [m2]": 125306.64,
+        "Total Annual Electricity [GJ]": 33495.38,
+        "Total Annual Gas [GJ]": 22400.94,
+        "Building Location [lat, lon]": [
+            41.87973,
+            -87.631073
+        ],
+        "Weather Location Lat": 41.87973,
+        "Weather Location Lon": -87.631073
+    },
+    "8487": {
+        "Area [m2]": 214475.04,
+        "Total Annual Electricity [GJ]": 55428.54,
+        "Total Annual Gas [GJ]": 38492.58,
+        "Building Location [lat, lon]": [
+            41.879745,
+            -87.628784
+        ],
+        "Weather Location Lat": 41.879745,
+        "Weather Location Lon": -87.628784
+    },
+    "8495": {
+        "Area [m2]": 139.96,
+        "Total Annual Electricity [GJ]": 243.94,
+        "Total Annual Gas [GJ]": 40.42,
+        "Building Location [lat, lon]": [
+            41.879684000000005,
+            -87.637939
+        ],
+        "Weather Location Lat": 41.879684000000005,
+        "Weather Location Lon": -87.637939
+    },
+    "8547": {
+        "Area [m2]": 2985.71,
+        "Total Annual Electricity [GJ]": 2370.62,
+        "Total Annual Gas [GJ]": 50.17,
+        "Building Location [lat, lon]": [
+            41.878914,
+            -87.626526
+        ],
+        "Weather Location Lat": 41.878914,
+        "Weather Location Lon": -87.626526
+    },
+    "86": {
+        "Area [m2]": 235.84,
+        "Total Annual Electricity [GJ]": 287.58,
+        "Total Annual Gas [GJ]": 41.08,
+        "Building Location [lat, lon]": [
+            41.870365,
+            -87.637817
+        ],
+        "Weather Location Lat": 41.870365,
+        "Weather Location Lon": -87.637817
+    },
+    "87": {
+        "Area [m2]": 4034.71,
+        "Total Annual Electricity [GJ]": 2107.26,
+        "Total Annual Gas [GJ]": 136.24,
+        "Building Location [lat, lon]": [
+            41.86956,
+            -87.62982199999999
+        ],
+        "Weather Location Lat": 41.86956,
+        "Weather Location Lon": -87.62982199999999
+    },
+    "88": {
+        "Area [m2]": 35991.79,
+        "Total Annual Electricity [GJ]": 11722.9,
+        "Total Annual Gas [GJ]": 2380.42,
+        "Building Location [lat, lon]": [
+            41.869568,
+            -87.62640400000001
+        ],
+        "Weather Location Lat": 41.869568,
+        "Weather Location Lon": -87.62640400000001
+    },
+    "91": {
+        "Area [m2]": 74022.45,
+        "Total Annual Electricity [GJ]": 21011.44,
+        "Total Annual Gas [GJ]": 14883.4,
+        "Building Location [lat, lon]": [
+            41.870434,
+            -87.625275
+        ],
+        "Weather Location Lat": 41.870434,
+        "Weather Location Lon": -87.625275
+    },
+    "9170": {
+        "Area [m2]": 68363.9,
+        "Total Annual Electricity [GJ]": 19611.73,
+        "Total Annual Gas [GJ]": 13866.29,
+        "Building Location [lat, lon]": [
+            41.8797,
+            -87.63678
+        ],
+        "Weather Location Lat": 41.8797,
+        "Weather Location Lon": -87.63678
+    },
+    "9182": {
+        "Area [m2]": 205939.86,
+        "Total Annual Electricity [GJ]": 53458.92,
+        "Total Annual Gas [GJ]": 38790.95,
+        "Building Location [lat, lon]": [
+            41.8797,
+            -87.63678
+        ],
+        "Weather Location Lat": 41.8797,
+        "Weather Location Lon": -87.63678
+    },
+    "9193": {
+        "Area [m2]": 451433.65,
+        "Total Annual Electricity [GJ]": 113547.33,
+        "Total Annual Gas [GJ]": 75433.94,
+        "Building Location [lat, lon]": [
+            41.879715000000004,
+            -87.634491
+        ],
+        "Weather Location Lat": 41.879715000000004,
+        "Weather Location Lon": -87.634491
+    },
+    "92": {
+        "Area [m2]": 10402.42,
+        "Total Annual Electricity [GJ]": 3599.45,
+        "Total Annual Gas [GJ]": 671.18,
+        "Building Location [lat, lon]": [
+            41.869549,
+            -87.630981
+        ],
+        "Weather Location Lat": 41.869549,
+        "Weather Location Lon": -87.630981
+    },
+    "9208": {
+        "Area [m2]": 15686.07,
+        "Total Annual Electricity [GJ]": 6645.97,
+        "Total Annual Gas [GJ]": 3982.9,
+        "Building Location [lat, lon]": [
+            41.880565999999995,
+            -87.63452099999999
+        ],
+        "Weather Location Lat": 41.880565999999995,
+        "Weather Location Lon": -87.63452099999999
+    },
+    "9225": {
+        "Area [m2]": 83256.51,
+        "Total Annual Electricity [GJ]": 23151.0,
+        "Total Annual Gas [GJ]": 15104.19,
+        "Building Location [lat, lon]": [
+            41.879719,
+            -87.633362
+        ],
+        "Weather Location Lat": 41.879719,
+        "Weather Location Lon": -87.633362
+    },
+    "9253": {
+        "Area [m2]": 35258.34,
+        "Total Annual Electricity [GJ]": 11382.74,
+        "Total Annual Gas [GJ]": 6946.9,
+        "Building Location [lat, lon]": [
+            41.87973,
+            -87.631073
+        ],
+        "Weather Location Lat": 41.87973,
+        "Weather Location Lon": -87.631073
+    },
+    "9256": {
+        "Area [m2]": 21696.94,
+        "Total Annual Electricity [GJ]": 8080.56,
+        "Total Annual Gas [GJ]": 4571.57,
+        "Building Location [lat, lon]": [
+            41.879745,
+            -87.628784
+        ],
+        "Weather Location Lat": 41.879745,
+        "Weather Location Lon": -87.628784
+    },
+    "9257": {
+        "Area [m2]": 120683.73,
+        "Total Annual Electricity [GJ]": 32499.72,
+        "Total Annual Gas [GJ]": 23167.68,
+        "Building Location [lat, lon]": [
+            41.879745,
+            -87.628784
+        ],
+        "Weather Location Lat": 41.879745,
+        "Weather Location Lon": -87.628784
+    },
+    "9259": {
+        "Area [m2]": 78638.04,
+        "Total Annual Electricity [GJ]": 22268.01,
+        "Total Annual Gas [GJ]": 16941.4,
+        "Building Location [lat, lon]": [
+            41.879738,
+            -87.629944
+        ],
+        "Weather Location Lat": 41.879738,
+        "Weather Location Lon": -87.629944
+    },
+    "9307": {
+        "Area [m2]": 203684.76,
+        "Total Annual Electricity [GJ]": 52694.04,
+        "Total Annual Gas [GJ]": 34148.27,
+        "Building Location [lat, lon]": [
+            41.879757,
+            -87.627655
+        ],
+        "Weather Location Lat": 41.879757,
+        "Weather Location Lon": -87.627655
+    },
+    "9321": {
+        "Area [m2]": 41400.67,
+        "Total Annual Electricity [GJ]": 13774.75,
+        "Total Annual Gas [GJ]": 2699.32,
+        "Building Location [lat, lon]": [
+            41.878918,
+            -87.624237
+        ],
+        "Weather Location Lat": 41.878918,
+        "Weather Location Lon": -87.624237
+    },
+    "9325": {
+        "Area [m2]": 149309.94,
+        "Total Annual Electricity [GJ]": 39552.85,
+        "Total Annual Gas [GJ]": 26561.98,
+        "Building Location [lat, lon]": [
+            41.879771999999996,
+            -87.625366
+        ],
+        "Weather Location Lat": 41.879771999999996,
+        "Weather Location Lon": -87.625366
+    },
+    "9420": {
+        "Area [m2]": 189.07,
+        "Total Annual Electricity [GJ]": 275.39,
+        "Total Annual Gas [GJ]": 40.55,
+        "Building Location [lat, lon]": [
+            41.880581,
+            -87.629944
+        ],
+        "Weather Location Lat": 41.880581,
+        "Weather Location Lon": -87.629944
+    },
+    "9535": {
+        "Area [m2]": 1996.72,
+        "Total Annual Electricity [GJ]": 1002.64,
+        "Total Annual Gas [GJ]": 99.09,
+        "Building Location [lat, lon]": [
+            41.880581,
+            -87.63110400000001
+        ],
+        "Weather Location Lat": 41.880581,
+        "Weather Location Lon": -87.63110400000001
+    },
+    "9567": {
+        "Area [m2]": 800.43,
+        "Total Annual Electricity [GJ]": 511.14,
+        "Total Annual Gas [GJ]": 54.54,
+        "Building Location [lat, lon]": [
+            41.880581,
+            -87.629944
+        ],
+        "Weather Location Lat": 41.880581,
+        "Weather Location Lon": -87.629944
+    },
+    "9601": {
+        "Area [m2]": 209583.13,
+        "Total Annual Electricity [GJ]": 54282.21,
+        "Total Annual Gas [GJ]": 38434.36,
+        "Building Location [lat, lon]": [
+            41.880547,
+            -87.63678
+        ],
+        "Weather Location Lat": 41.880547,
+        "Weather Location Lon": -87.63678
+    },
+    "9604": {
+        "Area [m2]": 7713.67,
+        "Total Annual Electricity [GJ]": 4692.32,
+        "Total Annual Gas [GJ]": 2806.33,
+        "Building Location [lat, lon]": [
+            41.880592,
+            -87.628815
+        ],
+        "Weather Location Lat": 41.880592,
+        "Weather Location Lon": -87.628815
+    },
+    "9608": {
+        "Area [m2]": 80476.08,
+        "Total Annual Electricity [GJ]": 22594.9,
+        "Total Annual Gas [GJ]": 17496.16,
+        "Building Location [lat, lon]": [
+            41.880577,
+            -87.632233
+        ],
+        "Weather Location Lat": 41.880577,
+        "Weather Location Lon": -87.632233
+    },
+    "9610": {
+        "Area [m2]": 69696.39,
+        "Total Annual Electricity [GJ]": 20057.34,
+        "Total Annual Gas [GJ]": 15136.71,
+        "Building Location [lat, lon]": [
+            41.880562,
+            -87.635651
+        ],
+        "Weather Location Lat": 41.880562,
+        "Weather Location Lon": -87.635651
+    },
+    "9620": {
+        "Area [m2]": 76241.89,
+        "Total Annual Electricity [GJ]": 21586.47,
+        "Total Annual Gas [GJ]": 15427.74,
+        "Building Location [lat, lon]": [
+            41.880565999999995,
+            -87.63452099999999
+        ],
+        "Weather Location Lat": 41.880565999999995,
+        "Weather Location Lon": -87.63452099999999
+    },
+    "9623": {
+        "Area [m2]": 75559.13,
+        "Total Annual Electricity [GJ]": 21308.63,
+        "Total Annual Gas [GJ]": 14154.91,
+        "Building Location [lat, lon]": [
+            41.880569,
+            -87.633362
+        ],
+        "Weather Location Lat": 41.880569,
+        "Weather Location Lon": -87.633362
+    },
+    "9625": {
+        "Area [m2]": 20465.59,
+        "Total Annual Electricity [GJ]": 7953.45,
+        "Total Annual Gas [GJ]": 5971.01,
+        "Building Location [lat, lon]": [
+            41.880592,
+            -87.628815
+        ],
+        "Weather Location Lat": 41.880592,
+        "Weather Location Lon": -87.628815
+    },
+    "9655": {
+        "Area [m2]": 21747.44,
+        "Total Annual Electricity [GJ]": 8187.78,
+        "Total Annual Gas [GJ]": 5419.9,
+        "Building Location [lat, lon]": [
+            41.880592,
+            -87.628815
+        ],
+        "Weather Location Lat": 41.880592,
+        "Weather Location Lon": -87.628815
+    },
+    "9776": {
+        "Area [m2]": 46534.27,
+        "Total Annual Electricity [GJ]": 14405.62,
+        "Total Annual Gas [GJ]": 12015.66,
+        "Building Location [lat, lon]": [
+            41.881428,
+            -87.63110400000001
+        ],
+        "Weather Location Lat": 41.881428,
+        "Weather Location Lon": -87.63110400000001
+    },
+    "99": {
+        "Area [m2]": 605.45,
+        "Total Annual Electricity [GJ]": 461.54,
+        "Total Annual Gas [GJ]": 46.81,
+        "Building Location [lat, lon]": [
+            41.870373,
+            -87.636688
+        ],
+        "Weather Location Lat": 41.870373,
+        "Weather Location Lon": -87.636688
+    },
+    "9923": {
+        "Area [m2]": 128864.61,
+        "Total Annual Electricity [GJ]": 34513.83,
+        "Total Annual Gas [GJ]": 23603.0,
+        "Building Location [lat, lon]": [
+            41.880615,
+            -87.62539699999999
+        ],
+        "Weather Location Lat": 41.880615,
+        "Weather Location Lon": -87.62539699999999
+    }
+}

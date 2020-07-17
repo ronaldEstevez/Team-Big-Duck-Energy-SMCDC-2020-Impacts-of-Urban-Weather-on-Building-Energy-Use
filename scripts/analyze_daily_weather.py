@@ -73,7 +73,7 @@ def weatherStatsToCAndF():
         json.dump(toF, jsonF)
 
 def main():
-    # weatherToJSON()
+    weatherToJSON()
     weatherStatsToCAndF()
 
 if __name__ == '__main__':
