@@ -20,7 +20,7 @@ m = {
     "dec":12
 }
       
-def get_weather(usecols='*', lat=None, lon=None, coordinates=[], months=None, datetime=None, groupBy=None):
+def get_weather(usecols='*', lat=None, lon=None, coordinates=[], months=None, datetime=None, groupBy=None, conn=None):
     '''
     Fetches data pertaining to Chicago 2015
 
@@ -53,9 +53,8 @@ def get_weather(usecols='*', lat=None, lon=None, coordinates=[], months=None, da
     for coord in [lat, lon]:
         curr_coord = 'lat' if lat==coord else 'lon'
         if coord != None:
-            if type(coord) == tuple:
-                opt_query.append(f" {curr_coord} in {coord}")
-            elif type(coord) == list and type(lon) == list:
+            coordType = type(coord)
+            if coordType == list or coordType == tuple or coordType == set:
                 opt_query.append(f" {curr_coord} in {tuple(coord)}")
             else:
                 opt_query.append(f" {curr_coord}={coord}")
@@ -84,9 +83,14 @@ def get_weather(usecols='*', lat=None, lon=None, coordinates=[], months=None, da
     if groupBy != None:
         query += "group by " + groupBy
 
-    conn = sqlite3.connect('../database/database.db')
-    df = pd.read_sql_query(query, conn)  
-    conn.close()
+    df = None
+
+    if conn == None:
+        conn = sqlite3.connect('../database/database.db')
+        df = pd.read_sql_query(query, conn)  
+        conn.close()
+    else:
+        df = pd.read_sql_query(query, conn)
 
     return df 
     

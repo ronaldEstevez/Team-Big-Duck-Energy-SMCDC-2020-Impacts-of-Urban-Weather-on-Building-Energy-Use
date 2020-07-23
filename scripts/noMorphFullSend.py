@@ -84,8 +84,9 @@ def streamLineNoMorph():
     coords = getWeatherCoords()
     endResult = {}
     for id in buildings:
-        buildingCoords = (buildingsDF[buildingsDF.BLDGID == int(
-            id)].Lat.values[0], buildingsDF[buildingsDF.BLDGID == int(id)].Lon.values[0])
+        wanted = buildingsDF[buildingsDF.BLDGID == int(id)]
+        buildingCoords = (wanted.Lat.values[0], wanted.Lon.values[0])
+        buildings[id]['height'] = wanted.MEAN_AVGHT.values[0]
         buildings[id]['lat'] = buildingCoords[0]
         buildings[id]['lon'] = buildingCoords[1]
         buildings[id]['weather_loc'] = closestPoint(buildingCoords, coords)
@@ -93,8 +94,12 @@ def streamLineNoMorph():
         temp = {}
         curr = buildings[id]
         temp['Area [m2]'] = curr['area_total']
-        temp['Total Annual Electricity [GJ]'] = curr['elec_total']
-        temp['Total Annual Gas [GJ]'] = curr['outputs']['end_uses'][-1]['Total End Uses']['Natural Gas [GJ]']
+        temp['Mean Average Height [m]'] = curr['height']
+        temp['Total Electricity [GJ]'] = curr['elec_total']
+        temp['Total Gas [GJ]'] = curr['outputs']['end_uses'][-1]['Total End Uses']['Natural Gas [GJ]']
+        temp['Heating Electricity [GJ'] = curr['outputs']['end_uses'][0]['Heating']['Natural Gas [GJ]']
+        temp['Heating Gas [GJ]'] = curr['outputs']['end_uses'][0]['Heating']['Electricity [GJ]']
+        temp['Cooling Electricity [GJ'] = curr['outputs']['end_uses'][1]['Cooling']['Electricity [GJ]']
         temp['Building Location [lat, lon]'] = (curr['lat'], curr['lon'])
         temp['Weather Location Lat'] = curr['weather_loc'][0]
         temp['Weather Location Lon'] = curr['weather_loc'][1]
@@ -150,10 +155,14 @@ def makeSpreadSheet():
     for k, v in buildings.items():
         if not v['Weather']:
             buildingWeather[k] = closestWeather((v['Weather Location Lat'], v['Weather Location Lon']), existing)
+        buildings[k]['Weather'] = buildingWeather[k]
     
     df = pd.DataFrame.from_dict(buildingWeather).sort_index(axis=1)
     df = df.apply(lambda x: K_to_F(x) - 65)
     df.to_excel('../processed_data/building_specific_heat_cool.xlsx', index_label = 'date')
+
+    with open('../processed_data/streamlined_withWeather.json', 'w') as jsonFile:
+        json.dump(buildings, jsonFile)
 
 def main():
     streamLineNoMorph()
