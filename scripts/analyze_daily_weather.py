@@ -1,31 +1,40 @@
 '''
 Outputs daily standard deviation, variance,
-average, minimum, and maximum temperatures
+average, minimum, and maximum of given measurement
 from 390 weather sensor locations surrounding
-given buidlings as three json files (one in 
-Kelvin, Celsius, and Farenheit respectively)
+given buildings as json files
 '''
 
 import csv
 import fetch
 import json
+import os
 import pandas as pd
+import sqlite3
+import sys
 import threading
 
-def weatherToJSON():
+
+def weatherToJSON(val):
     data = {}
-    def analyze(start, end):
+
+    def analyze(val, start, end):
+        ogVal = val
+        if val[-2] == '-':
+            val = f'`{val}`'
+
         std = var = avg = min = max = 0
+        conn = sqlite3.connect('../database/database.db')
         for month in range(start, end):
             for day in range(1, 32):
                 curr_day = f"2015-{str(month).zfill(2)}-{str(day).zfill(2)}"
-                df = fetch.get_weather(usecols='oid,temp_K', datetime=curr_day)
+                df = fetch.get_weather(usecols=val, datetime=curr_day, conn=conn)
                 if not df.empty:
-                    std = df['temp_K'].std()
-                    var = df['temp_K'].var()
-                    avg = df['temp_K'].mean()
-                    min = df['temp_K'].min()
-                    max = df['temp_K'].max()
+                    std = df[ogVal].std()
+                    var = df[ogVal].var()
+                    avg = df[ogVal].mean()
+                    min = df[ogVal].min()
+                    max = df[ogVal].max()
                     data[curr_day] = {
                         'std': std,
                         'var': var,
@@ -33,28 +42,33 @@ def weatherToJSON():
                         'min': min,
                         'max': max
                     }
+        conn.close()
 
-    t1 = threading.Thread(target=analyze(1, 3), name="t1")
-    t2 = threading.Thread(target=analyze(3, 5), name="t2")
-    t3 = threading.Thread(target=analyze(5, 7), name="t3")
-    t4 = threading.Thread(target=analyze(7, 9), name="t4")
-    t5 = threading.Thread(target=analyze(9, 11), name="t5")
-    t6 = threading.Thread(target=analyze(11, 13), name="t6")
+    threads = []
 
-    threads = [t1, t2, t3, t4, t5, t6]
+    for i in range(1, 13, 2):
+        threads.append(threading.Thread(target=analyze, args=(val, i, i+2,)))
+
     for t in threads:
         t.start()
+
     for t in threads:
         t.join()
 
-    with open('../processed_data/dailyWeatherStatsK.json', 'w') as json_file:
+    dir = f'../processed_data/{val}_stats/'
+
+    if not os.path.exists(dir):
+        os.makedirs(dir)
+
+    with open(dir + val[val.index('_')+1:] + '.json', 'w') as json_file:
         json.dump(data, json_file)
 
 
-def weatherStatsToCAndF():
-    with open('../processed_data/dailyWeatherStatsK.json') as jsonFile:
+def weatherStatsToCAndF(val):
+    dir = f'../processed_data/{val}_stats/'
+    with open(dir + 'K.json') as jsonFile:
         toC = json.load(jsonFile)
-    with open('../processed_data/dailyWeatherStatsK.json') as jsonFile:
+    with open(dir + 'K.json') as jsonFile:
         toF = json.load(jsonFile)
 
     for key in toF:
@@ -68,13 +82,24 @@ def weatherStatsToCAndF():
                 toC[key][tag] = C - 273.15
                 toF[key][tag] = toC[key][tag] * 1.8 + 32
 
-    with open('../processed_data/dailyWeatherStatsC.json', 'w') as jsonC, open('../processed_data/dailyWeatherStatsF.json', 'w') as jsonF:
+    with open(dir + 'C.json', 'w') as jsonC, open(dir + 'F.json', 'w') as jsonF:
         json.dump(toC, jsonC)
         json.dump(toF, jsonF)
 
+
 def main():
-    weatherToJSON()
-    weatherStatsToCAndF()
+    val = ''
+    try:
+        val = sys.argv[1]
+    except IndexError as e:
+        print(f'{e}: must provide an argument from weather measurements')
+        return
+
+    weatherToJSON(val)
+
+    if val[-1] == 'K':
+        weatherStatsToCAndF(val)
+
 
 if __name__ == '__main__':
     main()

@@ -1,3 +1,8 @@
+'''
+Output json file of buildings with some importan variables
+from NoMorph.json as easier to access keys
+'''
+
 import json
 import pandas as pd
 from math import sqrt

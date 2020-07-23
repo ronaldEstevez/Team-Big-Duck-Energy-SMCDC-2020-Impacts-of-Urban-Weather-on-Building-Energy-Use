@@ -1,343 +1,3 @@
-dailyAvgTemp = {
-    "version": "v1",
-    "config": {
-        "visState": {
-            "filters": [
-              {
-                  "dataId": [
-                      "month"
-                  ],
-                  "id": "hzkmcsk8",
-                  "name": [
-                      "time"
-                  ],
-                  "type": "timeRange",
-                  "value": [
-                      1422511408000,
-                      1422596342000
-                  ],
-                  "enlarged": True,
-                  "plotType": "lineChart",
-                  "yAxis": {
-                      "name": "avg(temp_K)",
-                      "type": "real"
-                  }
-              }
-            ],
-            "layers": [
-                {
-                    "id": "ekb8nad",
-                    "type": "point",
-                    "config": {
-                        "dataId": "month",
-                        "label": "Point",
-                        "color": [
-                          18,
-                          147,
-                          154
-                        ],
-                        "columns": {
-                            "lat": "lat",
-                            "lng": "lon",
-                            "altitude": None
-                        },
-                        "isVisible": True,
-                        "visConfig": {
-                            "radius": 10,
-                            "fixedRadius": False,
-                            "opacity": 0.5,
-                            "outline": False,
-                            "thickness": 2,
-                            "strokeColor": None,
-                            "colorRange": {
-                                "name": "Global Warming",
-                                "type": "sequential",
-                                "category": "Uber",
-                                "colors": [
-                                    "#FFC300",
-                                    "#F1920E",
-                                    "#E3611C",
-                                    "#C70039",
-                                    "#900C3F",
-                                    "#5A1846"
-                                ],
-                                "reversed": True
-                            },
-                            "strokeColorRange": {
-                                "name": "Global Warming",
-                                "type": "sequential",
-                                "category": "Uber",
-                                "colors": [
-                                    "#5A1846",
-                                    "#900C3F",
-                                    "#C70039",
-                                    "#E3611C",
-                                    "#F1920E",
-                                    "#FFC300"
-                                ]
-                            },
-                            "radiusRange": [
-                                0,
-                                50
-                            ],
-                            "filled": True
-                        },
-                        "hidden": False,
-                        "textLabel": []
-                    },
-                    "visualChannels": {
-                        "colorField": {
-                            "name": "avg(temp_K)",
-                            "type": "real"
-                        },
-                        "colorScale": "quantize",
-                        "strokeColorField": None,
-                        "strokeColorScale": "quantile",
-                        "sizeField": {
-                            "name": "avg(temp_K)",
-                            "type": "real"
-                        },
-                        "sizeScale": "sqrt"
-                    }
-                }
-            ],
-            "interactionConfig": {
-                "tooltip": {
-                    "fieldsToShow": {
-                        "month": [
-                            "time",
-                            "avg(temp_K)"
-                        ]
-                    },
-                    "enabled": True
-                },
-                "brush": {
-                    "size": 0.5,
-                    "enabled": False
-                },
-                "geocoder": {
-                    "enabled": False
-                },
-                "coordinate": {
-                    "enabled": False
-                }
-            },
-            "layerBlending": "normal",
-            "splitMaps": [],
-            "animationConfig": {
-                "currentTime": None,
-                "speed": 1
-            }
-        },
-        "mapState": {
-            "bearing": 0,
-            "dragRotate": False,
-            "latitude": 41.87023601152249,
-            "longitude": -87.62864207899815,
-            "pitch": 0,
-            "zoom": 12.183388142618051,
-            "isSplit": False
-        },
-        "mapStyle": {
-            "styleType": "dark",
-            "topLayerGroups": {},
-            "visibleLayerGroups": {
-                "label": True,
-                "road": True,
-                "border": False,
-                "building": True,
-                "water": True,
-                "land": True,
-                "3d building": False
-            },
-            "threeDBuildingColor": [
-                9.665468314072013,
-                17.18305478057247,
-                31.1442867897876
-            ],
-            "mapStyles": {}
-        }
-    }
-}
-
-dailyAvgWindSpeed = {
-    "version": "v1",
-    "config": {
-        "visState": {
-            "filters": [
-              {
-                  "dataId": [
-                      "month"
-                  ],
-                  "id": "nmadvrb4",
-                  "name": [
-                      "time"
-                  ],
-                  "type": "timeRange",
-                  "value": [
-                      1430438400000,
-                      1430523955000
-                  ],
-                  "enlarged": True,
-                  "plotType": "lineChart",
-                  "yAxis": {
-                      "name": "avg(`WindSpd_ms-1`)",
-                      "type": "real"
-                  }
-              }
-            ],
-            "layers": [
-                {
-                    "id": "bfil4c",
-                    "type": "point",
-                    "config": {
-                        "dataId": "month",
-                        "label": "Point",
-                        "color": [
-                          218,
-                          112,
-                          191
-                        ],
-                        "columns": {
-                            "lat": "lat",
-                            "lng": "lon",
-                            "altitude": None
-                        },
-                        "isVisible": True,
-                        "visConfig": {
-                            "radius": 10,
-                            "fixedRadius": False,
-                            "opacity": 0.5,
-                            "outline": False,
-                            "thickness": 2,
-                            "strokeColor": None,
-                            "colorRange": {
-                                "name": "Global Warming",
-                                "type": "sequential",
-                                "category": "Uber",
-                                "colors": [
-                                    "#FFC300",
-                                    "#F1920E",
-                                    "#E3611C",
-                                    "#C70039",
-                                    "#900C3F",
-                                    "#5A1846"
-                                ],
-                                "reversed": True
-                            },
-                            "strokeColorRange": {
-                                "name": "Global Warming",
-                                "type": "sequential",
-                                "category": "Uber",
-                                "colors": [
-                                    "#5A1846",
-                                    "#900C3F",
-                                    "#C70039",
-                                    "#E3611C",
-                                    "#F1920E",
-                                    "#FFC300"
-                                ]
-                            },
-                            "radiusRange": [
-                                0,
-                                50
-                            ],
-                            "filled": True
-                        },
-                        "hidden": False,
-                        "textLabel": [
-                            {
-                                "field": None,
-                                "color": [
-                                    255,
-                                    255,
-                                    255
-                                ],
-                                "size": 18,
-                                "offset": [
-                                    0,
-                                    0
-                                ],
-                                "anchor": "start",
-                                "alignment": "center"
-                            }
-                        ]
-                    },
-                    "visualChannels": {
-                        "colorField": {
-                            "name": "avg(`WindSpd_ms-1`)",
-                            "type": "real"
-                        },
-                        "colorScale": "quantize",
-                        "strokeColorField": None,
-                        "strokeColorScale": "quantile",
-                        "sizeField": {
-                            "name": "avg(`WindSpd_ms-1`)",
-                            "type": "real"
-                        },
-                        "sizeScale": "sqrt"
-                    }
-                }
-            ],
-            "interactionConfig": {
-                "tooltip": {
-                    "fieldsToShow": {
-                        "month": [
-                            "time",
-                            "avg(`WindSpd_ms-1`)"
-                        ]
-                    },
-                    "enabled": True
-                },
-                "brush": {
-                    "size": 0.5,
-                    "enabled": False
-                },
-                "geocoder": {
-                    "enabled": False
-                },
-                "coordinate": {
-                    "enabled": False
-                }
-            },
-            "layerBlending": "normal",
-            "splitMaps": [],
-            "animationConfig": {
-                "currentTime": None,
-                "speed": 1
-            }
-        },
-        "mapState": {
-            "bearing": 0,
-            "dragRotate": False,
-            "latitude": 41.86603772017152,
-            "longitude": -87.6355647670081,
-            "pitch": 0,
-            "zoom": 11.905345338119592,
-            "isSplit": False
-        },
-        "mapStyle": {
-            "styleType": "dark",
-            "topLayerGroups": {},
-            "visibleLayerGroups": {
-                "label": True,
-                "road": True,
-                "border": False,
-                "building": True,
-                "water": True,
-                "land": True,
-                "3d building": False
-            },
-            "threeDBuildingColor": [
-                9.665468314072013,
-                17.18305478057247,
-                31.1442867897876
-            ],
-            "mapStyles": {}
-        }
-    }
-}
-
 dailyTemp = {
     "version": "v1",
     "config": {
@@ -353,8 +13,8 @@ dailyTemp = {
                     ],
                     "type": "timeRange",
                     "value": [
-                        1445282910000,
-                        1445283839000
+                        1424391540000,
+                        1424392473000
                     ],
                     "enlarged": True,
                     "plotType": "lineChart",
@@ -383,7 +43,7 @@ dailyTemp = {
                         },
                         "isVisible": True,
                         "visConfig": {
-                            "radius": 10,
+                            "radius": 30,
                             "fixedRadius": False,
                             "opacity": 0.5,
                             "outline": False,
@@ -419,7 +79,7 @@ dailyTemp = {
                                 ]
                             },
                             "radiusRange": [
-                                1,
+                                30,
                                 50
                             ],
                             "filled": True
@@ -435,11 +95,8 @@ dailyTemp = {
                         "colorScale": "quantize",
                         "strokeColorField": None,
                         "strokeColorScale": "quantile",
-                        "sizeField": {
-                            "name": "temp_K",
-                            "type": "real"
-                        },
-                        "sizeScale": "sqrt"
+                        "sizeField": None,
+                        "sizeScale": "linear"
                     }
                 }
             ],
@@ -474,8 +131,8 @@ dailyTemp = {
         "mapState": {
             "bearing": 0,
             "dragRotate": False,
-            "latitude": 41.87348965518838,
-            "longitude": -87.62208596192067,
+            "latitude": 41.87348965518698,
+            "longitude": -87.62208596192073,
             "pitch": 0,
             "zoom": 12.903882166166095,
             "isSplit": False
@@ -502,7 +159,7 @@ dailyTemp = {
     }
 }
 
-dailyWindSpeed = {
+dailyWindSpd = {
     "version": "v1",
     "config": {
         "visState": {
@@ -517,8 +174,8 @@ dailyWindSpeed = {
                   ],
                   "type": "timeRange",
                   "value": [
-                      1433116800000,
-                      1433117729000
+                      1431820800000,
+                      1431821732000
                   ],
                   "enlarged": True,
                   "plotType": "lineChart",
@@ -547,7 +204,7 @@ dailyWindSpeed = {
                         },
                         "isVisible": True,
                         "visConfig": {
-                            "radius": 10,
+                            "radius": 50,
                             "fixedRadius": False,
                             "opacity": 0.5,
                             "outline": False,
@@ -613,11 +270,8 @@ dailyWindSpeed = {
                         "colorScale": "quantize",
                         "strokeColorField": None,
                         "strokeColorScale": "quantile",
-                        "sizeField": {
-                            "name": "WindSpd_ms-1",
-                            "type": "real"
-                        },
-                        "sizeScale": "sqrt"
+                        "sizeField": None,
+                        "sizeScale": "linear"
                     }
                 }
             ],
@@ -652,10 +306,364 @@ dailyWindSpeed = {
         "mapState": {
             "bearing": 0,
             "dragRotate": False,
-            "latitude": 41.87295484973828,
-            "longitude": -87.63356380765224,
+            "latitude": 41.872982551946365,
+            "longitude": -87.63054598172721,
             "pitch": 0,
-            "zoom": 11.80776433233219,
+            "zoom": 13.172704837167547,
+            "isSplit": False
+        },
+        "mapStyle": {
+            "styleType": "dark",
+            "topLayerGroups": {},
+            "visibleLayerGroups": {
+                "label": True,
+                "road": True,
+                "border": False,
+                "building": True,
+                "water": True,
+                "land": True,
+                "3d building": False
+            },
+            "threeDBuildingColor": [
+                9.665468314072013,
+                17.18305478057247,
+                31.1442867897876
+            ],
+            "mapStyles": {}
+        }
+    }
+}
+
+dailyShortWave = {
+    "version": "v1",
+    "config": {
+        "visState": {
+            "filters": [
+              {
+                  "dataId": [
+                      "day"
+                  ],
+                  "id": "2lwjzrusq",
+                  "name": [
+                      "time"
+                  ],
+                  "type": "timeRange",
+                  "value": [
+                      1431542129500,
+                      1431543055500
+                  ],
+                  "enlarged": True,
+                  "plotType": "lineChart",
+                  "yAxis": {
+                      "name": "Shortwave_Wm-2",
+                      "type": "real"
+                  }
+              }
+            ],
+            "layers": [
+                {
+                    "id": "15lvhye",
+                    "type": "point",
+                    "config": {
+                        "dataId": "day",
+                        "label": "Point",
+                        "color": [
+                          119,
+                          110,
+                          87
+                        ],
+                        "columns": {
+                            "lat": "lat",
+                            "lng": "lon",
+                            "altitude": None
+                        },
+                        "isVisible": True,
+                        "visConfig": {
+                            "radius": 30,
+                            "fixedRadius": False,
+                            "opacity": 0.5,
+                            "outline": False,
+                            "thickness": 2,
+                            "strokeColor": None,
+                            "colorRange": {
+                                "name": "Global Warming 8",
+                                "type": "sequential",
+                                "category": "Uber",
+                                "colors": [
+                                    "#FFC300",
+                                    "#E57F00",
+                                    "#CB4600",
+                                    "#B21800",
+                                    "#98000A",
+                                    "#7F0023",
+                                    "#650031",
+                                    "#4C0035"
+                                ],
+                                "reversed": True
+                            },
+                            "strokeColorRange": {
+                                "name": "Global Warming",
+                                "type": "sequential",
+                                "category": "Uber",
+                                "colors": [
+                                    "#5A1846",
+                                    "#900C3F",
+                                    "#C70039",
+                                    "#E3611C",
+                                    "#F1920E",
+                                    "#FFC300"
+                                ]
+                            },
+                            "radiusRange": [
+                                0,
+                                50
+                            ],
+                            "filled": True
+                        },
+                        "hidden": False,
+                        "textLabel": [
+                            {
+                                "field": None,
+                                "color": [
+                                    255,
+                                    255,
+                                    255
+                                ],
+                                "size": 18,
+                                "offset": [
+                                    0,
+                                    0
+                                ],
+                                "anchor": "start",
+                                "alignment": "center"
+                            }
+                        ]
+                    },
+                    "visualChannels": {
+                        "colorField": {
+                            "name": "Shortwave_Wm-2",
+                            "type": "real"
+                        },
+                        "colorScale": "quantize",
+                        "strokeColorField": None,
+                        "strokeColorScale": "quantile",
+                        "sizeField": None,
+                        "sizeScale": "linear"
+                    }
+                }
+            ],
+            "interactionConfig": {
+                "tooltip": {
+                    "fieldsToShow": {
+                        "day": [
+                            "time",
+                            "Shortwave_Wm-2"
+                        ]
+                    },
+                    "enabled": True
+                },
+                "brush": {
+                    "size": 0.5,
+                    "enabled": False
+                },
+                "geocoder": {
+                    "enabled": False
+                },
+                "coordinate": {
+                    "enabled": False
+                }
+            },
+            "layerBlending": "normal",
+            "splitMaps": [],
+            "animationConfig": {
+                "currentTime": None,
+                "speed": 1
+            }
+        },
+        "mapState": {
+            "bearing": 0,
+            "dragRotate": False,
+            "latitude": 41.87253811746677,
+            "longitude": -87.64015226470403,
+            "pitch": 0,
+            "zoom": 12.903882166166095,
+            "isSplit": False
+        },
+        "mapStyle": {
+            "styleType": "dark",
+            "topLayerGroups": {},
+            "visibleLayerGroups": {
+                "label": True,
+                "road": True,
+                "border": False,
+                "building": True,
+                "water": True,
+                "land": True,
+                "3d building": False
+            },
+            "threeDBuildingColor": [
+                9.665468314072013,
+                17.18305478057247,
+                31.1442867897876
+            ],
+            "mapStyles": {}
+        }
+    }
+}
+
+dailyLongWave = {
+    "version": "v1",
+    "config": {
+        "visState": {
+            "filters": [
+                {
+                    "dataId": [
+                        "day"
+                    ],
+                    "id": "joqqedg5b",
+                    "name": [
+                        "time"
+                    ],
+                    "type": "timeRange",
+                    "value": [
+                        1431734400000,
+                        1431735331000
+                    ],
+                    "enlarged": True,
+                    "plotType": "lineChart",
+                    "yAxis": {
+                        "name": "Longwave_Wm-2",
+                        "type": "real"
+                    }
+                }
+            ],
+            "layers": [
+                {
+                    "id": "melmnws",
+                    "type": "point",
+                    "config": {
+                        "dataId": "day",
+                        "label": "Point",
+                        "color": [
+                          221,
+                          178,
+                          124
+                        ],
+                        "columns": {
+                            "lat": "lat",
+                            "lng": "lon",
+                            "altitude": None
+                        },
+                        "isVisible": True,
+                        "visConfig": {
+                            "radius": 30,
+                            "fixedRadius": False,
+                            "opacity": 0.5,
+                            "outline": False,
+                            "thickness": 2,
+                            "strokeColor": None,
+                            "colorRange": {
+                                "name": "Global Warming 8",
+                                "type": "sequential",
+                                "category": "Uber",
+                                "colors": [
+                                    "#FFC300",
+                                    "#E57F00",
+                                    "#CB4600",
+                                    "#B21800",
+                                    "#98000A",
+                                    "#7F0023",
+                                    "#650031",
+                                    "#4C0035"
+                                ],
+                                "reversed": True
+                            },
+                            "strokeColorRange": {
+                                "name": "Global Warming",
+                                "type": "sequential",
+                                "category": "Uber",
+                                "colors": [
+                                    "#5A1846",
+                                    "#900C3F",
+                                    "#C70039",
+                                    "#E3611C",
+                                    "#F1920E",
+                                    "#FFC300"
+                                ]
+                            },
+                            "radiusRange": [
+                                0,
+                                50
+                            ],
+                            "filled": True
+                        },
+                        "hidden": False,
+                        "textLabel": [
+                            {
+                                "field": None,
+                                "color": [
+                                    255,
+                                    255,
+                                    255
+                                ],
+                                "size": 18,
+                                "offset": [
+                                    0,
+                                    0
+                                ],
+                                "anchor": "start",
+                                "alignment": "center"
+                            }
+                        ]
+                    },
+                    "visualChannels": {
+                        "colorField": {
+                            "name": "Longwave_Wm-2",
+                            "type": "real"
+                        },
+                        "colorScale": "quantize",
+                        "strokeColorField": None,
+                        "strokeColorScale": "quantile",
+                        "sizeField": None,
+                        "sizeScale": "linear"
+                    }
+                }
+            ],
+            "interactionConfig": {
+                "tooltip": {
+                    "fieldsToShow": {
+                        "day": [
+                            "time",
+                            "Longwave_Wm-2"
+                        ]
+                    },
+                    "enabled": True
+                },
+                "brush": {
+                    "size": 0.5,
+                    "enabled": False
+                },
+                "geocoder": {
+                    "enabled": False
+                },
+                "coordinate": {
+                    "enabled": False
+                }
+            },
+            "layerBlending": "normal",
+            "splitMaps": [],
+            "animationConfig": {
+                "currentTime": None,
+                "speed": 1
+            }
+        },
+        "mapState": {
+            "bearing": 0,
+            "dragRotate": False,
+            "latitude": 41.87355943701317,
+            "longitude": -87.63886146325068,
+            "pitch": 0,
+            "zoom": 12.903882166166095,
             "isSplit": False
         },
         "mapStyle": {
