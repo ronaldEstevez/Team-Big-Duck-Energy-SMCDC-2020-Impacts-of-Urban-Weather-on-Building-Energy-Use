@@ -163,6 +163,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -378,6 +388,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -599,6 +619,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -814,6 +844,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -1035,6 +1075,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -1250,6 +1300,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -1471,6 +1531,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -1686,6 +1756,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -1907,6 +1987,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -2122,6 +2212,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -2343,6 +2443,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -2558,6 +2668,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -2779,6 +2899,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -2994,6 +3124,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -3215,6 +3355,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -3430,6 +3580,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -3651,6 +3811,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -3866,6 +4036,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -4087,6 +4267,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -4302,6 +4492,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -4523,6 +4723,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -4738,6 +4948,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -4959,6 +5179,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -5174,6 +5404,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -5395,6 +5635,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -5610,6 +5860,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -5831,6 +6091,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -6046,6 +6316,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -6267,6 +6547,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -6482,6 +6772,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -6703,6 +7003,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -6918,6 +7228,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -7139,6 +7459,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -7354,6 +7684,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -7575,6 +7915,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -7790,6 +8140,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -8011,6 +8371,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -8226,6 +8596,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -8447,6 +8827,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -8662,6 +9052,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -8883,6 +9283,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -9098,6 +9508,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -9319,6 +9739,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -9534,6 +9964,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -9755,6 +10195,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -9970,6 +10420,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -10191,6 +10651,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -10406,6 +10876,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -10627,6 +11107,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -10842,6 +11332,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -11063,6 +11563,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -11278,6 +11788,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -11499,6 +12019,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -11714,6 +12244,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -11935,6 +12475,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -12150,6 +12700,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -12371,6 +12931,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -12586,6 +13156,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -12807,6 +13387,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -13022,6 +13612,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -13243,6 +13843,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -13458,6 +14068,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -13679,6 +14299,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -13894,6 +14524,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -14115,6 +14755,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -14330,6 +14980,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -14551,6 +15211,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -14766,6 +15436,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -14987,6 +15667,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -15202,6 +15892,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -15423,6 +16123,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -15638,6 +16348,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -15859,6 +16579,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -16074,6 +16804,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -16295,6 +17035,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -16510,6 +17260,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -16731,6 +17491,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -16946,6 +17716,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -17167,6 +17947,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -17382,6 +18172,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -17603,6 +18403,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -17818,6 +18628,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -18039,6 +18859,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -18254,6 +19084,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -18475,6 +19315,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -18690,6 +19540,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -18911,6 +19771,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -19126,6 +19996,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -19347,6 +20227,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -19562,6 +20452,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -19783,6 +20683,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -19998,6 +20908,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -20219,6 +21139,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -20434,6 +21364,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -20655,6 +21595,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -20870,6 +21820,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -21091,6 +22051,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -21306,6 +22276,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -21527,6 +22507,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -21742,6 +22732,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -21963,6 +22963,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -22178,6 +23188,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -22399,6 +23419,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -22614,6 +23644,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -22835,6 +23875,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -23050,6 +24100,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -23271,6 +24331,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -23486,6 +24556,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -23707,6 +24787,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -23922,6 +25012,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -24143,6 +25243,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -24358,6 +25468,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -24579,6 +25699,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -24794,6 +25924,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -25015,6 +26155,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -25230,6 +26380,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -25451,6 +26611,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -25666,6 +26836,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -25887,6 +27067,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -26102,6 +27292,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -26323,6 +27523,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -26538,6 +27748,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -26759,6 +27979,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -26974,6 +28204,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -27195,6 +28435,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -27410,6 +28660,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -27631,6 +28891,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -27846,6 +29116,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -28067,6 +29347,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -28282,6 +29572,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -28503,6 +29803,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -28718,6 +30028,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -28939,6 +30259,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -29154,6 +30484,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -29375,6 +30715,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -29590,6 +30940,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -29811,6 +31171,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -30026,6 +31396,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -30247,6 +31627,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -30462,6 +31852,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -30683,6 +32083,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -30898,6 +32308,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -31119,6 +32539,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -31334,6 +32764,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -31555,6 +32995,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -31770,6 +33220,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -31991,6 +33451,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -32206,6 +33676,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -32427,6 +33907,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -32642,6 +34132,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -32863,6 +34363,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -33078,6 +34588,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -33299,6 +34819,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -33514,6 +35044,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -33735,6 +35275,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -33950,6 +35500,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -34171,6 +35731,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -34386,6 +35956,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -34607,6 +36187,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -34822,6 +36412,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -35043,6 +36643,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -35258,6 +36868,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -35479,6 +37099,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -35694,6 +37324,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -35915,6 +37555,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -36130,6 +37780,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -36351,6 +38011,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -36566,6 +38236,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -36787,6 +38467,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -37002,6 +38692,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -37223,6 +38923,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -37438,6 +39148,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -37659,6 +39379,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -37874,6 +39604,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -38095,6 +39835,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -38310,6 +40060,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -38531,6 +40291,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -38746,6 +40516,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -38967,6 +40747,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -39182,6 +40972,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -39403,6 +41203,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -39618,6 +41428,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -39839,6 +41659,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -40054,6 +41884,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -40275,6 +42115,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -40490,6 +42340,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -40711,6 +42571,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -40926,6 +42796,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -41147,6 +43027,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -41362,6 +43252,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -41583,6 +43483,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -41798,6 +43708,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -42019,6 +43939,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -42234,6 +44164,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -42455,6 +44395,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -42670,6 +44620,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -42891,6 +44851,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -43106,6 +45076,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -43327,6 +45307,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -43542,6 +45532,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -43763,6 +45763,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -43978,6 +45988,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -44199,6 +46219,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -44414,6 +46444,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -44635,6 +46675,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -44850,6 +46900,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -45071,6 +47131,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -45286,6 +47356,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -45507,6 +47587,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -45722,6 +47812,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -45943,6 +48043,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -46158,6 +48268,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -46379,6 +48499,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -46594,6 +48724,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -46815,6 +48955,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -47030,6 +49180,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -47251,6 +49411,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -47466,6 +49636,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -47687,6 +49867,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -47902,6 +50092,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -48123,6 +50323,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -48338,6 +50548,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -48559,6 +50779,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -48774,6 +51004,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -48995,6 +51235,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -49210,6 +51460,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -49431,6 +51691,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -49646,6 +51916,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -49867,6 +52147,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -50082,6 +52372,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -50303,6 +52603,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -50518,6 +52828,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -50739,6 +53059,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -50954,6 +53284,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -51175,6 +53515,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -51390,6 +53740,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -51611,6 +53971,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -51826,6 +54196,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -52047,6 +54427,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -52262,6 +54652,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -52483,6 +54883,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -52698,6 +55108,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -52919,6 +55339,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -53134,6 +55564,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -53355,6 +55795,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -53570,6 +56020,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -53791,6 +56251,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -54006,6 +56476,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -54227,6 +56707,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -54442,6 +56932,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -54663,6 +57163,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -54878,6 +57388,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -55099,6 +57619,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -55314,6 +57844,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -55535,6 +58075,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -55750,6 +58300,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -55971,6 +58531,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -56186,6 +58756,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -56407,6 +58987,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -56622,6 +59212,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -56843,6 +59443,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -57058,6 +59668,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -57279,6 +59899,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -57494,6 +60124,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -57715,6 +60355,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -57930,6 +60580,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -58151,6 +60811,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -58366,6 +61036,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -58587,6 +61267,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -58802,6 +61492,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -59023,6 +61723,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -59238,6 +61948,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -59459,6 +62179,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -59674,6 +62404,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -59895,6 +62635,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -60110,6 +62860,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -60331,6 +63091,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -60546,6 +63316,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -60767,6 +63547,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -60982,6 +63772,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -61203,6 +64003,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -61418,6 +64228,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -61639,6 +64459,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -61854,6 +64684,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -62075,6 +64915,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -62290,6 +65140,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -62511,6 +65371,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -62726,6 +65596,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -62947,6 +65827,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -63162,6 +66052,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -63383,6 +66283,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -63598,6 +66508,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -63819,6 +66739,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -64034,6 +66964,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -64255,6 +67195,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -64470,6 +67420,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -64691,6 +67651,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -64906,6 +67876,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -65127,6 +68107,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -65342,6 +68332,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -65563,6 +68563,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -65778,6 +68788,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -65999,6 +69019,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -66214,6 +69244,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -66435,6 +69475,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -66650,6 +69700,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -66871,6 +69931,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -67086,6 +70156,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -67307,6 +70387,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -67522,6 +70612,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -67743,6 +70843,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -67958,6 +71068,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -68179,6 +71299,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -68394,6 +71524,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -68615,6 +71755,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -68830,6 +71980,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
@@ -69051,6 +72211,16 @@
                     }
                 },
                 {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
+                    }
+                },
+                {
                     "Total End Uses": {
                         "Additional Fuel [GJ]": 0.0,
                         "District Cooling [GJ]": 0.0,
@@ -69266,6 +72436,16 @@
                         "Electricity [GJ]": 0.0,
                         "Natural Gas [GJ]": 0.0,
                         "Water [m3]": 0.0
+                    }
+                },
+                {
+                    "": {
+                        "Additional Fuel [GJ]": "",
+                        "District Cooling [GJ]": "",
+                        "District Heating [GJ]": "",
+                        "Electricity [GJ]": "",
+                        "Natural Gas [GJ]": "",
+                        "Water [m3]": ""
                     }
                 },
                 {
