@@ -34,6 +34,7 @@ def main():
 
     # Append needed columns to noMorph dataframe
     noMorph['Volume [m3]'] = noMorph['Shape Area [m2]'] * noMorph['Height [m]']
+    noMorph['Net Energy Use [GJ]'] = noMorph['Total End Uses Electricity [GJ]'] + noMorph['Total End Uses Natural Gas [GJ]']
     noMorph['Electricity Intensity/Height (Per Volume)  [MJ/m3]'] = noMorph['Total Electricity Intensity [MJ/m2]']/noMorph['Height [m]'] 
     noMorph['Natural Gas Intensity/Height (Per Volume)  [MJ/m3]'] = noMorph['Total Natural Gas Intensity [MJ/m2]']/noMorph['Height [m]'] 
     noMorph['Net Heating [GJ]'] = noMorph['Heating Electricity [GJ]'] + noMorph['Heating Natural Gas [GJ]']
@@ -44,8 +45,8 @@ def main():
     noMorph['Net Heating + Fans [GJ]'] = noMorph['Net Heating [GJ]'] + noMorph['Fans Electricity [GJ]']
     noMorph['% Heating (Heating and Cooling Only)'] = noMorph['Net Heating [GJ]']/noMorph['Heating + Cooling [GJ]'] 
     noMorph['% Cooling (Heating and Cooling Only)'] = noMorph['Net Cooling [GJ]']/noMorph['Heating + Cooling [GJ]']
-    noMorph['% Heating (All Energy Use)'] = noMorph['Net Heating [GJ]']/(noMorph['Total End Uses Electricity [GJ]'] + noMorph['Total End Uses Natural Gas [GJ]'])
-    noMorph['% Cooling + Fans (All Energy Use)'] = noMorph['Net Cooling + Fans [GJ]']/(noMorph['Total End Uses Electricity [GJ]'] + noMorph['Total End Uses Natural Gas [GJ]'])
+    noMorph['% Heating (All Energy Use)'] = noMorph['Net Heating [GJ]']/noMorph['Net Energy Use [GJ]']
+    noMorph['% Cooling + Fans (All Energy Use)'] = noMorph['Net Cooling + Fans [GJ]']/noMorph['Net Energy Use [GJ]']
     noMorph['% Cooling + Fans (Heating Cooling, and Fans Only)'] = noMorph['Net Cooling + Fans [GJ]']/(noMorph['Heating + Cooling + Fans [GJ]'])
     noMorph['% Heating (Heating Cooling, and Fans Only)'] = noMorph['Net Heating [GJ]']/noMorph['Heating + Cooling + Fans [GJ]']
 
