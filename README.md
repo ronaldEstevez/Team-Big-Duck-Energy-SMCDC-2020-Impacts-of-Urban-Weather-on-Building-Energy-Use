@@ -9,9 +9,9 @@ This work addresses Challenge 3 of the SMC data challenge by leveraging data-dri
   - Jack Schneiderhan (jschnei4@stevens.edu)
   - Ronald Estevez (restevez@stevens.edu)
 
-## **Overview of Files (important directories and summary bolded)**
+## **Overview of Files (important directories and summary italicized)**
 
-### **Summary**
+### *Summary*
   - reliant on data obtained from SMC Data Challenge Sponsors (https://smc-datachallenge.ornl.gov/challenges-2020/challenge-3-2020/)
   - must run minimize_weather.py to produce supplementary weather data from original weather dataset
   - uses the following Python/Jupyter libraries:
@@ -28,7 +28,7 @@ This work addresses Challenge 3 of the SMC data challenge by leveraging data-dri
     - scipy
     - SQLAlchemy
 
-### **./**
+### *_./*
   - energy_analysis.ipynb and weather_analysis.ipynb are partial/incomplete Jupyter notebooks of work done for this project
   - fetch.py and minimize_weather.py are supplementary scripts to weather_analysis.ipynb copied from ./scripts
   - config.py includes map configurations used for energy_analysis.ipynb
@@ -42,7 +42,7 @@ This work addresses Challenge 3 of the SMC data challenge by leveraging data-dri
   - in .gitignore
   - SQLite databse produced by minimize_weather.py
 
-### **./figures**
+### *./figures*
   - paper_figures/ contains figures used in final paper
   - other directories contain other interesting visualizations generated throughout the course of our reserach
 
