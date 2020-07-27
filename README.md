@@ -28,7 +28,7 @@ This work addresses Challenge 3 of the SMC data challenge by leveraging data-dri
     - scipy
     - SQLAlchemy
 
-### *_./*
+### *./*
   - energy_analysis.ipynb and weather_analysis.ipynb are partial/incomplete Jupyter notebooks of work done for this project
   - fetch.py and minimize_weather.py are supplementary scripts to weather_analysis.ipynb copied from ./scripts
   - config.py includes map configurations used for energy_analysis.ipynb
