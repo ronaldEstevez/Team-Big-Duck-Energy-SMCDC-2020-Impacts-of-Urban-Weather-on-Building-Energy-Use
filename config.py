@@ -236,8 +236,8 @@ map_1 = {
         "mapState": {
             "bearing": 0,
             "dragRotate": False,
-            "latitude": 41.87730697735201,
-            "longitude": -87.65683936830372,
+            "latitude": 41.87716681688469,
+            "longitude": -87.63111299124354,
             "pitch": 0,
             "zoom": 13.451941083083048,
             "isSplit": False
@@ -411,8 +411,8 @@ map_2 = {
         "mapState": {
             "bearing": 0,
             "dragRotate": False,
-            "latitude": 41.87743091173837,
-            "longitude": -87.65725030409813,
+            "latitude": 41.87771123120559,
+            "longitude": -87.63001799277232,
             "pitch": 0,
             "zoom": 13.451941083083048,
             "isSplit": False
@@ -438,7 +438,6 @@ map_2 = {
         }
     }
 }
-
 map_22 = {
     "version": "v1",
     "config": {
@@ -586,8 +585,8 @@ map_22 = {
         "mapState": {
             "bearing": 0,
             "dragRotate": False,
-            "latitude": 41.87740211731931,
-            "longitude": -87.65737229316757,
+            "latitude": 41.876981635623686,
+            "longitude": -87.62857130031347,
             "pitch": 0,
             "zoom": 13.451941083083048,
             "isSplit": False
@@ -761,8 +760,8 @@ map_3 = {
         "mapState": {
             "bearing": 0,
             "dragRotate": False,
-            "latitude": 41.87742728880965,
-            "longitude": -87.65747989289868,
+            "latitude": 41.87747400880711,
+            "longitude": -87.63056131787776,
             "pitch": 0,
             "zoom": 13.451941083083048,
             "isSplit": False
@@ -793,127 +792,114 @@ map_4 = {
     "version": "v1",
     "config": {
         "visState": {
-            "filters": [
-              {
-                  "dataId": [
-                      "Footprint"
-                  ],
-                  "id": "abpby13r",
-                  "name": [],
-                  "type": None,
-                  "value": None,
-                  "enlarged": False,
-                  "plotType": "histogram",
-                  "yAxis": None
-              }
-            ],
+            "filters": [],
             "layers": [
-                {
-                    "id": "dg39mw9",
-                    "type": "geojson",
-                    "config": {
-                        "dataId": "Footprint",
-                        "label": "Footprint",
-                        "color": [
-                          218,
-                          112,
-                          191
-                        ],
-                        "columns": {
-                            "geojson": "geometry"
-                        },
-                        "isVisible": True,
-                        "visConfig": {
-                            "opacity": 0.8,
-                            "strokeOpacity": 0.8,
-                            "thickness": 0.5,
-                            "strokeColor": [
-                                18,
-                                92,
-                                119
-                            ],
-                            "colorRange": {
-                                "name": "ColorBrewer Blues-8",
-                                "type": "singlehue",
-                                "category": "ColorBrewer",
-                                "colors": [
-                                    "#f7fbff",
-                                    "#deebf7",
-                                    "#c6dbef",
-                                    "#9ecae1",
-                                    "#6baed6",
-                                    "#4292c6",
-                                    "#2171b5",
-                                    "#084594"
-                                ]
-                            },
-                            "strokeColorRange": {
-                                "name": "Global Warming",
-                                "type": "sequential",
-                                "category": "Uber",
-                                "colors": [
-                                    "#5A1846",
-                                    "#900C3F",
-                                    "#C70039",
-                                    "#E3611C",
-                                    "#F1920E",
-                                    "#FFC300"
-                                ]
-                            },
-                            "radius": 10,
-                            "sizeRange": [
-                                0,
-                                10
-                            ],
-                            "radiusRange": [
-                                0,
-                                50
-                            ],
-                            "heightRange": [
-                                0,
-                                500
-                            ],
-                            "elevationScale": 5,
-                            "stroked": False,
-                            "filled": True,
-                            "enable3d": False,
-                            "wireframe": False
-                        },
-                        "hidden": False,
-                        "textLabel": [
-                            {
-                                "field": None,
-                                "color": [
-                                    255,
-                                    255,
-                                    255
-                                ],
-                                "size": 18,
-                                "offset": [
-                                    0,
-                                    0
-                                ],
-                                "anchor": "start",
-                                "alignment": "center"
-                            }
-                        ]
-                    },
-                    "visualChannels": {
-                        "colorField": {
-                            "name": "HVAC_Elec_Intensity",
-                            "type": "real"
-                        },
-                        "colorScale": "quantile",
-                        "sizeField": None,
-                        "sizeScale": "linear",
-                        "strokeColorField": None,
-                        "strokeColorScale": "quantile",
-                        "heightField": None,
-                        "heightScale": "linear",
-                        "radiusField": None,
-                        "radiusScale": "linear"
-                    }
-                }
+              {
+                  "id": "dg39mw9",
+                  "type": "geojson",
+                  "config": {
+                      "dataId": "Footprint",
+                      "label": "Footprint",
+                      "color": [
+                        218,
+                        112,
+                        191
+                      ],
+                      "columns": {
+                          "geojson": "geometry"
+                      },
+                      "isVisible": True,
+                      "visConfig": {
+                          "opacity": 0.8,
+                          "strokeOpacity": 0.8,
+                          "thickness": 0.5,
+                          "strokeColor": [
+                              18,
+                              92,
+                              119
+                          ],
+                          "colorRange": {
+                              "name": "ColorBrewer Blues-8",
+                              "type": "singlehue",
+                              "category": "ColorBrewer",
+                              "colors": [
+                                  "#f7fbff",
+                                  "#deebf7",
+                                  "#c6dbef",
+                                  "#9ecae1",
+                                  "#6baed6",
+                                  "#4292c6",
+                                  "#2171b5",
+                                  "#084594"
+                              ]
+                          },
+                          "strokeColorRange": {
+                              "name": "Global Warming",
+                              "type": "sequential",
+                              "category": "Uber",
+                              "colors": [
+                                  "#5A1846",
+                                  "#900C3F",
+                                  "#C70039",
+                                  "#E3611C",
+                                  "#F1920E",
+                                  "#FFC300"
+                              ]
+                          },
+                          "radius": 10,
+                          "sizeRange": [
+                              0,
+                              10
+                          ],
+                          "radiusRange": [
+                              0,
+                              50
+                          ],
+                          "heightRange": [
+                              0,
+                              500
+                          ],
+                          "elevationScale": 5,
+                          "stroked": False,
+                          "filled": True,
+                          "enable3d": False,
+                          "wireframe": False
+                      },
+                      "hidden": False,
+                      "textLabel": [
+                          {
+                              "field": None,
+                              "color": [
+                                  255,
+                                  255,
+                                  255
+                              ],
+                              "size": 18,
+                              "offset": [
+                                  0,
+                                  0
+                              ],
+                              "anchor": "start",
+                              "alignment": "center"
+                          }
+                      ]
+                  },
+                  "visualChannels": {
+                      "colorField": {
+                          "name": "HVAC_Elec_Intensity",
+                          "type": "real"
+                      },
+                      "colorScale": "quantile",
+                      "sizeField": None,
+                      "sizeScale": "linear",
+                      "strokeColorField": None,
+                      "strokeColorScale": "quantile",
+                      "heightField": None,
+                      "heightScale": "linear",
+                      "radiusField": None,
+                      "radiusScale": "linear"
+                  }
+              }
             ],
             "interactionConfig": {
                 "tooltip": {
@@ -949,8 +935,8 @@ map_4 = {
         "mapState": {
             "bearing": 0,
             "dragRotate": False,
-            "latitude": 41.87275609511713,
-            "longitude": -87.65722014085111,
+            "latitude": 41.8775684273525,
+            "longitude": -87.63042706035262,
             "pitch": 0,
             "zoom": 13.451941083083048,
             "isSplit": False
@@ -1146,6 +1132,356 @@ map_5 = {
                 26.848523094644484,
                 31.1442867897876,
                 35.440050484930715
+            ],
+            "mapStyles": {}
+        }
+    }
+}
+
+map_5 = {
+    "version": "v1",
+    "config": {
+        "visState": {
+            "filters": [],
+            "layers": [
+              {
+                  "id": "f6xkk9g",
+                  "type": "geojson",
+                  "config": {
+                      "dataId": "Footprint",
+                      "label": "Footprint",
+                      "color": [
+                        77,
+                        193,
+                        156
+                      ],
+                      "columns": {
+                          "geojson": "geometry"
+                      },
+                      "isVisible": True,
+                      "visConfig": {
+                          "opacity": 0.8,
+                          "strokeOpacity": 0.8,
+                          "thickness": 0.5,
+                          "strokeColor": [
+                              119,
+                              110,
+                              87
+                          ],
+                          "colorRange": {
+                              "name": "ColorBrewer Greens-8",
+                              "type": "singlehue",
+                              "category": "ColorBrewer",
+                              "colors": [
+                                  "#f7fcf5",
+                                  "#e5f5e0",
+                                  "#c7e9c0",
+                                  "#a1d99b",
+                                  "#74c476",
+                                  "#41ab5d",
+                                  "#238b45",
+                                  "#005a32"
+                              ]
+                          },
+                          "strokeColorRange": {
+                              "name": "Global Warming",
+                              "type": "sequential",
+                              "category": "Uber",
+                              "colors": [
+                                  "#5A1846",
+                                  "#900C3F",
+                                  "#C70039",
+                                  "#E3611C",
+                                  "#F1920E",
+                                  "#FFC300"
+                              ]
+                          },
+                          "radius": 10,
+                          "sizeRange": [
+                              0,
+                              10
+                          ],
+                          "radiusRange": [
+                              0,
+                              50
+                          ],
+                          "heightRange": [
+                              0,
+                              500
+                          ],
+                          "elevationScale": 5,
+                          "stroked": False,
+                          "filled": True,
+                          "enable3d": False,
+                          "wireframe": False
+                      },
+                      "hidden": False,
+                      "textLabel": [
+                          {
+                              "field": None,
+                              "color": [
+                                  255,
+                                  255,
+                                  255
+                              ],
+                              "size": 18,
+                              "offset": [
+                                  0,
+                                  0
+                              ],
+                              "anchor": "start",
+                              "alignment": "center"
+                          }
+                      ]
+                  },
+                  "visualChannels": {
+                      "colorField": {
+                          "name": "HVAC_Ngas_Intensity",
+                          "type": "real"
+                      },
+                      "colorScale": "quantile",
+                      "sizeField": None,
+                      "sizeScale": "linear",
+                      "strokeColorField": None,
+                      "strokeColorScale": "quantile",
+                      "heightField": None,
+                      "heightScale": "linear",
+                      "radiusField": None,
+                      "radiusScale": "linear"
+                  }
+              }
+            ],
+            "interactionConfig": {
+                "tooltip": {
+                    "fieldsToShow": {
+                        "Footprint": [
+                            "BLDGID",
+                            "HGT_AGL",
+                            "Shape_Area",
+                            "Area",
+                            "HVAC_Ngas_Intensity"
+                        ]
+                    },
+                    "enabled": True
+                },
+                "brush": {
+                    "size": 0.5,
+                    "enabled": False
+                },
+                "geocoder": {
+                    "enabled": False
+                },
+                "coordinate": {
+                    "enabled": False
+                }
+            },
+            "layerBlending": "normal",
+            "splitMaps": [],
+            "animationConfig": {
+                "currentTime": None,
+                "speed": 1
+            }
+        },
+        "mapState": {
+            "bearing": 0,
+            "dragRotate": False,
+            "latitude": 41.87754851333976,
+            "longitude": -87.63032069334764,
+            "pitch": 0,
+            "zoom": 13.451941083083048,
+            "isSplit": False
+        },
+        "mapStyle": {
+            "styleType": "muted_night",
+            "topLayerGroups": {},
+            "visibleLayerGroups": {
+                "label": True,
+                "road": True,
+                "border": False,
+                "building": True,
+                "water": True,
+                "land": True,
+                "3d building": False
+            },
+            "threeDBuildingColor": [
+                26.848523094644484,
+                31.1442867897876,
+                35.440050484930715
+            ],
+            "mapStyles": {}
+        }
+    }
+}
+
+map_6 = {
+    "version": "v1",
+    "config": {
+        "visState": {
+            "filters": [],
+            "layers": [
+              {
+                  "id": "f1w3phi",
+                  "type": "geojson",
+                  "config": {
+                      "dataId": "Footprint",
+                      "label": "Footprint",
+                      "color": [
+                        18,
+                        147,
+                        154
+                      ],
+                      "columns": {
+                          "geojson": "geometry"
+                      },
+                      "isVisible": True,
+                      "visConfig": {
+                          "opacity": 0.8,
+                          "strokeOpacity": 0.8,
+                          "thickness": 0.5,
+                          "strokeColor": [
+                              221,
+                              178,
+                              124
+                          ],
+                          "colorRange": {
+                              "name": "ColorBrewer Reds-8",
+                              "type": "singlehue",
+                              "category": "ColorBrewer",
+                              "colors": [
+                                  "#fff5f0",
+                                  "#fee0d2",
+                                  "#fcbba1",
+                                  "#fc9272",
+                                  "#fb6a4a",
+                                  "#ef3b2c",
+                                  "#cb181d",
+                                  "#99000d"
+                              ]
+                          },
+                          "strokeColorRange": {
+                              "name": "Global Warming",
+                              "type": "sequential",
+                              "category": "Uber",
+                              "colors": [
+                                  "#5A1846",
+                                  "#900C3F",
+                                  "#C70039",
+                                  "#E3611C",
+                                  "#F1920E",
+                                  "#FFC300"
+                              ]
+                          },
+                          "radius": 10,
+                          "sizeRange": [
+                              0,
+                              10
+                          ],
+                          "radiusRange": [
+                              0,
+                              50
+                          ],
+                          "heightRange": [
+                              0,
+                              500
+                          ],
+                          "elevationScale": 5,
+                          "stroked": False,
+                          "filled": True,
+                          "enable3d": False,
+                          "wireframe": False
+                      },
+                      "hidden": False,
+                      "textLabel": [
+                          {
+                              "field": None,
+                              "color": [
+                                  255,
+                                  255,
+                                  255
+                              ],
+                              "size": 18,
+                              "offset": [
+                                  0,
+                                  0
+                              ],
+                              "anchor": "start",
+                              "alignment": "center"
+                          }
+                      ]
+                  },
+                  "visualChannels": {
+                      "colorField": {
+                          "name": "ENERGY STAR Score",
+                          "type": "integer"
+                      },
+                      "colorScale": "quantile",
+                      "sizeField": None,
+                      "sizeScale": "linear",
+                      "strokeColorField": None,
+                      "strokeColorScale": "quantile",
+                      "heightField": None,
+                      "heightScale": "linear",
+                      "radiusField": None,
+                      "radiusScale": "linear"
+                  }
+              }
+            ],
+            "interactionConfig": {
+                "tooltip": {
+                    "fieldsToShow": {
+                        "Footprint": [
+                            "Year Built",
+                            "Property Name",
+                            "Primary Property Type",
+                            "ENERGY STAR Score",
+                            "HGT_AGL"
+                        ]
+                    },
+                    "enabled": True
+                },
+                "brush": {
+                    "size": 0.5,
+                    "enabled": False
+                },
+                "geocoder": {
+                    "enabled": False
+                },
+                "coordinate": {
+                    "enabled": False
+                }
+            },
+            "layerBlending": "normal",
+            "splitMaps": [],
+            "animationConfig": {
+                "currentTime": None,
+                "speed": 1
+            }
+        },
+        "mapState": {
+            "bearing": 0,
+            "dragRotate": False,
+            "latitude": 41.876834011083204,
+            "longitude": -87.62700393316983,
+            "pitch": 0,
+            "zoom": 13.451941083083048,
+            "isSplit": False
+        },
+        "mapStyle": {
+            "styleType": "dark",
+            "topLayerGroups": {},
+            "visibleLayerGroups": {
+                "label": True,
+                "road": True,
+                "border": False,
+                "building": True,
+                "water": True,
+                "land": True,
+                "3d building": False
+            },
+            "threeDBuildingColor": [
+                9.665468314072013,
+                17.18305478057247,
+                31.1442867897876
             ],
             "mapStyles": {}
         }
